@@ -56,7 +56,7 @@ for coastal_point in coastal_points:
 # Read locations from the CSV file
 results = []
 
-with open('dataconcatPropertyAndAge2605-1.csv', mode='r', newline='', encoding='utf-8') as file:
+with open('list_for_googleMap.csv', mode='r', newline='', encoding='ISO-8859-1') as file:
     # Read the file here
 
     reader = csv.DictReader(file, delimiter=';')  # Assuming tab-delimited format
@@ -84,12 +84,12 @@ with open('dataconcatPropertyAndAge2605-1.csv', mode='r', newline='', encoding='
                     if distance < min_distance:
                         min_distance = distance
                         nearest_coastal_point = (coastal_lat, coastal_lng)
-                        results.append([location, min_distance])
+                results.append([location, min_distance])
             else:
                 print(f"No results found for {location}")
                 results.append([location, 'not found'])
 # Write the results to a CSV file
-with open('location_distances-3.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('location_distances-3.csv', mode='w', newline='', encoding='ISO-8859-1') as file:
     writer = csv.writer(file, delimiter=';')
     writer.writerow(['Location', 'Distance to Nearest Coastal Point (km)'])
     writer.writerows(results)
