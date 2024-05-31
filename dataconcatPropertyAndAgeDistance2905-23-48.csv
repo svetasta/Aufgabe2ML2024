@@ -1,0 +1,1718 @@
+Location;Price;Rooms;WCs;Net Floor Area (m2);Gross Private Area (m2);Parking;Floor;Energy Performance Certificate;Elevator_Not available;Capital;Metropolitan Areas;Large cities;Coastal Locations;Median Age;Distance To Ocean
+Rio Tinto - Medancelhe, Gondomar;220000;4;2;126.0;161.0;1;0.0;Not available;True;False;True;False;False;47.1;9
+Arroios, Lisboa;365000;2;1;67.0;67.0;0;;Not available;True;True;True;True;False;44.8;12
+Fafe, Braga;220000;4;3;180.0;164.0;0;;Not available;True;False;False;True;False;44.4;50
+Bonfim, Porto;230000;3;2;87.0;87.0;0;;Not available;True;False;True;True;True;47.0;6
+Benfica, Lisboa;460000;3;2;81.0;104.0;1;9.0;Energy Performance Certificate;False;True;True;True;False;44.8;9
+Misericórdia, Lisboa;315000;0;1;34.0;43.0;0;;Not available;True;True;True;True;False;44.8;9
+Gouveia, Guarda;67500;3;2;88.0;99.0;0;;Not available;True;False;False;False;False;58.1;105
+Alvalade, Lisboa;780000;5;3;145.0;161.0;0;;Not available;True;True;True;True;False;44.8;14
+São Félix da Marinha I, Vila Nova de Gaia;198000;2;2;102.0;102.0;2;1.0;Energy Performance Certificate;False;False;True;True;False;46.8;2
+Consolação, Peniche;249500;2;1;75.0;120.0;1;0.0;Not available;True;False;False;False;True;47.9;0
+Aviz, Porto;830000;4;2;134.0;200.0;2;8.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Aires, Palmela;100000;2;1;54.0;61.0;0;;Not available;True;False;False;False;False;45.3;31
+Santo António, Lisboa;680000;3;2;122.0;156.0;0;;Not available;True;True;True;True;False;44.8;11
+Povoa de Santa Iria  e Forte da Casa, Vila Franca , Vila Franca de Xira;225000;2;1;77.0;77.0;0;;Not available;True;False;False;False;False;44.1;26
+Monserrate, Viana do Castelo;225000;2;2;55.0;55.0;0;;Not available;True;False;False;False;True;48.8;0
+Águas Santas, Porto;235000;2;2;91.0;116.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;10
+Bustos, Oliveira do Bairro;140000;3;2;89.0;105.0;0;;Not available;True;False;False;False;False;46.1;43
+São Martinho do Bispo e Ribeira de Frades, Coimbra;175000;2;1;66.0;70.0;0;;Not available;True;False;False;True;False;48.3;36
+Pechão, Faro;280000;2;2;90.0;107.0;1;2.0;Not available;True;False;False;False;True;45.7;59
+Paredes, Porto;195000;3;2;112.0;139.0;1;2.0;Not available;True;False;True;True;True;44.3;21
+Póvoa de Lanhoso (Nossa Senhora do Amparo), Braga;180000;3;2;74.0;198.0;1;2.0;Not available;True;False;False;True;False;44.4;43
+Fânzeres e São Pedro da Cova, Porto;220000;2;2;;;0;;Not available;True;False;True;True;True;47.0;13
+Fânzeres e São Pedro da Cova, Porto;220000;2;2;;;0;;Not available;True;False;True;True;True;47.0;13
+Casal de Ouressa, Sintra;170000;2;1;72.0;79.0;0;;Not available;True;False;False;False;False;43.7;10
+Areeiro, Lisboa;400000;2;1;86.0;96.0;0;;Not available;True;True;True;True;False;44.8;14
+Cova da Piedade, Almada;300000;2;1;69.0;81.0;0;4.0;Energy Performance Certificate;False;False;True;False;False;46.3;7
+Areeiro, Lisboa;580000;2;1;90.0;100.0;6;1.0;Not available;True;True;True;True;False;44.8;14
+Vialonga, Lisboa;125000;3;1;73.0;73.0;0;;Not available;True;True;True;True;False;44.8;26
+Massamá e Monte Abraão, Lisboa;525000;5;3;212.0;310.0;2;;Not available;True;True;True;True;False;44.8;6
+Alfena, Porto;185000;2;2;95.0;95.0;1;0.0;Not available;True;False;True;True;True;47.0;15
+Águas Santas, Porto;210000;2;1;97.0;105.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;10
+Amora, Setúbal;178000;2;1;68.0;69.0;0;;Not available;True;False;True;True;False;46.6;9
+Matosinhos e Leça da Palmeira, Porto;210000;0;1;38.0;93.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.5;4
+São Domingos, Santarém;300000;3;3;241.0;241.0;2;;Not available;True;False;False;False;False;48.3;57
+Seixal, Arrentela e Aldeia de Paio Pires, Setúbal;199000;3;1;;;0;;Not available;True;False;True;True;False;44.9;11
+Matosinhos e Leça da Palmeira, Porto;198000;1;1;47.0;47.0;0;;Not available;True;False;True;True;True;47.5;4
+Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto;160000;0;1;;;0;;Not available;True;False;True;True;True;47.0;5
+Oliveira do Douro, Porto;289000;3;2;113.0;148.0;0;;Not available;True;False;True;True;True;47.0;7
+Montijo e Afonsoeiro, Setúbal;200000;3;1;76.0;92.0;0;;Not available;True;False;True;True;False;42.6;25
+Mina de Água, Lisboa;175000;1;1;47.0;54.0;0;;Not available;True;True;True;True;False;44.8;10
+Caldas da Rainha, Caldas da Rainha;430000;3;2;115.0;176.0;2;2.0;Energy Performance Certificate;False;False;False;False;False;48.4;21
+S.Cosme, Gondomar;172000;2;2;93.0;103.0;1;4.0;Energy Performance Certificate;False;False;True;False;False;47.1;12
+Baguim do Monte - Igreja, Gondomar;175000;2;1;77.0;96.0;1;3.0;Energy Performance Certificate;False;False;True;False;False;47.1;12
+Torre da Marinha, Seixal;165000;2;1;81.0;102.0;0;;Not available;True;False;False;False;False;44.9;11
+Damaia de Cima, Amadora;200000;2;2;65.0;75.0;0;;Not available;True;False;True;True;False;44.1;8
+Matosinhos Sul, Matosinhos;295000;1;1;46.0;;0;;Not available;True;False;True;False;False;47.5;3
+Gueifães, Maia, Maia;257000;2;2;107.0;;0;;Not available;True;False;False;False;False;45.5;9
+Arnoso (Santa Maria e Santa Eulália) e Sezures, Braga;145000;2;2;96.0;96.0;2;1.0;Not available;True;False;False;True;False;44.4;29
+Santo Tirso, Santo Tirso;495000;4;4;231.0;231.0;2;5.0;Not available;True;False;False;False;False;49.5;27
+Estrela, Lisboa;599000;1;2;134.0;134.0;0;;Not available;True;True;True;True;False;44.8;8
+PER2 - Carvalhos, Vila Nova de Gaia;155000;1;1;40.0;60.0;1;1.0;Not available;True;False;True;True;False;46.8;8
+Tavira (Santa Maria e Santiago), Faro;290000;2;2;75.0;83.0;0;;Not available;True;False;False;False;True;45.7;79
+Parque das Nações, Lisboa;325000;2;1;67.0;67.0;0;;Not available;True;True;True;True;False;44.8;18
+Alfena, Porto;240000;3;2;119.0;166.0;2;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;15
+Parque das Nações, Lisboa;320000;2;1;67.0;67.0;0;;Not available;True;True;True;True;False;44.8;18
+Meadela, Viana do Castelo;220000;3;2;97.0;97.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;48.8;2
+Parque das Nações, Lisboa;295000;1;1;60.0;67.0;0;;Not available;True;True;True;True;False;44.8;18
+Amora, Setúbal;160000;2;1;74.0;74.0;0;;Not available;True;False;True;True;False;46.6;9
+Parque das Nações, Lisboa;315000;2;1;67.0;;0;;Not available;True;True;True;True;False;44.8;18
+Marrazes e Barosa, Leiria;230000;3;2;102.0;114.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;46.4;45
+Parque das Nações, Lisboa;225000;1;2;47.0;47.0;0;;Not available;True;True;True;True;False;44.8;18
+Corroios, Setúbal;198500;2;1;;;0;;Not available;True;False;True;True;False;46.6;7
+Arroios, Lisboa;216000;2;1;43.0;45.0;0;;Not available;True;True;True;True;False;44.8;12
+Urb. Colinas do Cruzeiro, Odivelas;355000;2;2;100.0;100.0;2;3.0;Not available;False;False;False;False;False;43.7;13
+Marco, Porto;252000;3;2;149.0;149.0;1;2.0;Not available;True;False;True;True;True;47.0;60
+Marco, Porto;189000;2;2;;;1;2.0;Not available;True;False;True;True;True;47.0;60
+Marco, Porto;189000;2;2;92.0;92.0;1;1.0;Not available;True;False;True;True;True;47.0;60
+Marco, Porto;179000;2;2;92.0;92.0;1;0.0;Not available;True;False;True;True;True;47.0;60
+Parque das Nações - Expo Sul, Lisboa;850000;3;3;182.0;182.0;2;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;17
+Almancil, Faro;310000;3;2;121.0;157.0;2;3.0;Energy Performance Certificate;False;False;False;False;True;45.7;45
+Moncarapacho e Fuseta, Faro;795000;2;2;104.0;122.0;2;0.0;Not available;True;False;False;False;True;45.7;66
+Pinheiro da Bemposta, Oliveira de Azeméis;200000;3;2;108.0;130.0;1;0.0;Not available;True;False;False;False;False;48.5;27
+Bonfim, Porto;145000;1;1;33.0;33.0;0;;Not available;True;False;True;True;True;47.0;6
+Sátão, Sátão;47000;3;2;143.0;149.0;0;;Not available;True;False;False;False;False;52.1;81
+Avenidas Novas, Lisboa;305000;3;1;85.0;94.0;0;;Not available;True;True;True;True;False;44.8;13
+Gaeiras, Óbidos;199000;3;2;101.0;144.0;2;2.0;Not available;True;False;False;False;True;48.9;20
+Caparica e Trafaria, Setúbal;203000;2;1;70.0;73.0;1;2.0;Energy Performance Certificate;False;False;True;True;False;46.6;2
+Santa Iria de Azoia, São João da Talha e Bobadela, Lisboa;318000;3;1;116.0;116.0;0;;Not available;True;True;True;True;False;44.8;22
+Olivais, Lisboa;269000;3;1;85.0;85.0;0;;Not available;True;True;True;True;False;44.8;16
+Alverca do Ribatejo e Sobralinho, Lisboa;167500;2;1;66.0;78.0;0;;Not available;True;True;True;True;False;44.8;31
+Arcos de Valdevez (Salvador), Vila Fonche e Parada, Viana do Castelo;220000;3;2;130.0;130.0;1;;Not available;True;False;False;False;True;55.4;37
+Miraflores, Oeiras;575000;3;2;143.0;143.0;2;1.0;Energy Performance Certificate;False;False;False;False;False;51.2;5
+Vale de Estacas, Santarém;230000;3;2;111.0;111.0;0;;Not available;True;False;False;False;False;48.3;58
+Santa Catarina, Porto;125000;1;2;62.0;88.0;0;;Not available;True;False;True;True;True;47.0;5
+Alhos Vedros, Setúbal;188000;3;2;88.0;102.0;0;;Not available;True;False;True;True;False;46.6;19
+Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Lisboa;420000;2;2;91.0;102.0;1;12.0;Energy Performance Certificate;False;True;True;True;False;44.8;3
+Parque das Nações - Expo Norte, Lisboa;575000;2;2;143.0;143.0;2;7.0;Not available;True;True;True;True;False;44.8;19
+Meadela, Viana do Castelo;270000;3;2;134.0;134.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;48.8;2
+Carcavelos e Parede, Lisboa;225000;2;1;80.0;142.0;0;;Not available;True;True;True;True;False;44.8;4
+Massamá e Monte Abraão, Lisboa;239900;3;2;86.0;102.0;0;;Not available;True;True;True;True;False;44.8;6
+Carcavelos e Parede, Lisboa;820000;3;3;117.0;130.0;1;5.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;810000;3;3;117.0;130.0;1;5.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;800000;3;3;117.0;130.0;1;4.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;790000;3;3;117.0;130.0;1;4.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;790000;3;3;117.0;130.0;1;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;780000;3;3;117.0;130.0;1;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;780000;3;3;117.0;130.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;770000;3;3;117.0;130.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;770000;3;3;117.0;130.0;1;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;760000;3;3;117.0;130.0;1;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;665000;2;2;88.0;210.0;1;0.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Carcavelos e Parede, Lisboa;675000;2;2;94.0;210.0;1;0.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Feira Nova, Amares;170000;3;3;183.0;190.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.0;37
+Olivais Sul, Lisboa;370000;4;2;124.0;124.0;1;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;16
+Monte Gordo, Vila Real de Santo António;220000;1;1;33.0;40.0;0;;Not available;True;False;False;False;False;48.5;96
+Serralves, Porto;245000;1;2;82.0;111.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;1
+Valongo, Porto;138500;1;1;59.0;75.0;1;0.0;Energy Performance Certificate;False;False;True;True;True;47.0;15
+Monte Gordo, Vila Real de Santo António;270000;1;1;40.0;50.0;0;;Not available;True;False;False;False;False;48.5;96
+Sto. Ant. Charneca / Cidade Sol, Barreiro;153000;2;1;68.0;72.0;0;;Not available;True;False;False;False;False;47.0;17
+Montijo e Afonsoeiro, Setúbal;345000;3;2;100.0;123.0;1;1.0;Energy Performance Certificate;False;False;True;True;False;42.6;25
+Montijo e Afonsoeiro, Setúbal;345000;3;2;100.0;123.0;0;;Not available;True;False;True;True;False;42.6;25
+Nacional 1, Santa Maria da Feira;162000;3;2;125.0;125.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;47.1;12
+Montijo e Afonsoeiro, Setúbal;350000;3;2;100.0;123.0;0;;Not available;True;False;True;True;False;42.6;25
+Montijo e Afonsoeiro, Setúbal;350000;3;2;100.0;123.0;0;;Not available;True;False;True;True;False;42.6;25
+Damaia de Cima, Amadora;169000;2;1;67.0;70.0;0;;Not available;True;False;True;True;False;44.1;8
+Marinha Grande, Leiria;165000;3;2;95.0;127.0;1;1.0;Not available;True;False;False;False;False;46.4;46
+Montijo e Afonsoeiro, Setúbal;355000;3;2;100.0;123.0;0;;Not available;True;False;True;True;False;42.6;25
+Venteira, Lisboa;385000;3;2;130.0;155.0;2;1.0;Not available;False;True;True;True;False;44.8;8
+Vila do Conde, Porto;415000;3;3;135.0;135.0;1;3.0;Not available;True;False;True;True;True;47.0;18
+Praia da Rocha, Portimão;170000;1;1;41.0;46.0;0;;Not available;True;False;False;False;True;45.5;0
+Montijo e Afonsoeiro, Setúbal;355000;3;2;100.0;123.0;0;;Not available;True;False;True;True;False;42.6;25
+Campo de Ourique, Lisboa;690000;3;3;107.0;114.0;0;;Not available;True;True;True;True;False;44.8;10
+Amial, Porto;200000;1;1;63.0;63.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Tortosendo, Castelo Branco;88000;3;1;116.0;155.0;0;;Not available;True;False;False;False;False;50.5;116
+Bairro dos Actores, Lisboa;270000;3;1;71.0;90.0;0;;Not available;True;True;True;True;False;44.8;11
+Feijó, Almada;255000;1;1;71.0;92.0;1;3.0;Not available;False;False;True;False;False;46.3;6
+Marco, Porto;158000;1;1;90.0;90.0;1;0.0;Not available;True;False;True;True;True;47.0;60
+Vilar de Andorinho, Vila Nova de Gaia;128000;1;1;57.0;68.0;0;;Not available;True;False;True;True;False;46.8;6
+Conde I, Sesimbra;160000;1;1;61.0;61.0;0;;Not available;True;False;False;False;True;44.8;25
+Ponte da Barca, Vila Nova de Muía e Paço Vedro de Magalhães, Viana do Castelo;138000;3;2;123.0;123.0;0;;Not available;True;False;False;False;True;51.4;39
+Cascais e Estoril, Lisboa;275000;1;1;41.0;52.0;0;;Not available;True;True;True;True;True;46.9;0
+Paçô, Viana do Castelo;167000;2;2;89.0;89.0;1;;Not available;True;False;False;False;True;48.8;7
+Lagoa e Carvoeiro, Faro;290000;2;1;85.0;85.0;0;;Not available;True;False;False;False;True;45.7;9
+Pedra Mourinha, Portimão;159000;2;1;64.0;83.0;0;;Not available;True;False;False;False;True;45.5;3
+Santa Maria Maior, Vila Real;229900;3;3;128.0;136.0;2;4.0;Energy Performance Certificate;False;False;False;False;False;48.5;111
+Peniche, Peniche;275000;2;1;67.0;100.0;0;;Not available;True;False;False;False;True;47.9;4
+Monte Gordo, Vila Real de Santo António;249000;2;2;60.0;67.0;0;;Not available;True;False;False;False;False;48.5;96
+Venteira, Amadora;160000;3;1;72.0;84.0;0;;Not available;True;False;True;True;False;44.1;8
+Venteira, Amadora;160000;3;1;72.0;77.0;0;;Not available;True;False;True;True;False;44.1;8
+Venteira, Amadora;160000;3;1;65.0;72.0;0;;Not available;True;False;True;True;False;44.1;8
+Loures, Loures;249000;1;1;71.0;86.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;44.6;18
+Buarcos e São Julião, Coimbra;205000;3;2;91.0;120.0;1;1.0;Not available;True;False;False;True;False;48.3;0
+Venteira, Amadora;160000;3;1;74.0;83.0;0;;Not available;True;False;True;True;False;44.1;8
+Matosinhos Sul, Matosinhos;485000;1;1;98.0;118.0;1;0.0;Energy Performance Certificate;False;False;True;False;False;47.5;3
+Campo de Ourique, Lisboa;415000;2;1;72.0;79.0;0;;Not available;True;True;True;True;False;44.8;10
+Santa Maria Maior, Lisboa;199000;0;1;30.0;32.0;0;;Not available;True;True;True;True;False;44.8;11
+Ajuda, Lisboa;320000;1;1;48.0;61.0;0;;Not available;True;True;True;True;False;44.8;8
+Baguim do Monte - Igreja, Gondomar;180000;2;1;89.0;101.0;1;3.0;Energy Performance Certificate;False;False;True;False;False;47.1;12
+Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail, Aveiro;193000;3;2;106.0;129.0;2;1.0;Not available;True;False;False;False;True;48.5;23
+Almada, Cova da Piedade, Pragal e Cacilhas, Setúbal;314900;3;2;95.0;110.0;0;;Not available;True;False;True;True;False;46.3;7
+Fluvial, Porto;335000;3;2;87.0;99.0;0;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;1
+Ramalha/Centro Sul, Almada;329000;3;2;80.0;89.0;1;3.0;Energy Performance Certificate;False;False;True;False;False;46.3;6
+Peniche, Peniche;195000;2;1;74.0;103.0;0;;Not available;True;False;False;False;True;47.9;4
+CARRIÇO, Pombal;175000;3;2;147.0;204.0;2;3.0;Not available;True;False;False;False;False;50.6;17
+Canidelo, Porto;619000;2;2;98.0;152.0;2;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Gulpilhares e Valadares, Porto;175000;3;2;103.0;103.0;1;2.0;Not available;True;False;True;True;True;47.0;7
+S.Cosme, Gondomar;125000;1;1;60.0;65.0;0;;Not available;True;False;True;False;False;47.1;12
+Consolação, Peniche;270000;2;1;72.0;114.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;47.9;0
+S.Cosme, Gondomar;135000;2;1;70.0;80.0;0;;Not available;True;False;True;False;False;47.1;12
+Laranjeiro, Almada;198000;3;2;89.0;100.0;0;;Not available;True;False;True;False;False;46.3;6
+Santa Marinha e São Pedro da Afurada, Porto;469000;3;3;120.0;127.0;2;8.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+Braga (São Vítor), Braga;158000;2;2;97.0;98.0;0;2.0;Not available;True;False;False;True;False;44.4;31
+São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça, Setúbal;209000;2;1;85.0;85.0;0;;Not available;True;False;True;True;False;46.6;29
+A dos Cunhados e Maceira, Lisboa;240000;2;1;85.0;104.0;2;0.0;Not available;True;True;True;True;False;44.8;20
+Praia, Póvoa de Varzim;359000;3;2;114.0;114.0;1;6.0;Energy Performance Certificate;False;False;True;False;False;45.8;14
+Amparo, Funchal;230000;2;1;67.0;103.0;1;3.0;Energy Performance Certificate;False;False;False;True;False;48.0;913
+Canidelo, Porto;229000;3;2;119.0;119.0;1;5.0;Not available;True;False;True;True;True;47.0;3
+Covilhã e Canhoso, Castelo Branco;110000;3;2;95.0;;0;;Not available;True;False;False;False;False;50.5;118
+São Carlos, Sintra;170000;3;2;76.0;96.0;0;;Not available;True;False;False;False;False;43.7;7
+Vila Nova de Famalicão e Calendário, Braga;227500;2;2;80.0;80.0;1;3.0;Not available;True;False;False;True;False;44.4;23
+Quinta da Cavaleira, Sintra;270000;2;1;;;0;;Not available;True;False;False;False;False;43.7;9
+Praça Rainha D. Amélia, Porto;265500;3;2;77.0;77.0;0;;Not available;True;False;True;True;True;47.0;6
+Praça Rainha D. Amélia, Porto;245500;3;2;74.0;74.0;0;;Not available;True;False;True;True;True;47.0;6
+Parada de Cunhos, Vila Real;180000;3;2;96.0;107.0;1;0.0;Not available;True;False;False;False;False;48.5;77
+Antas, Porto;190000;1;1;63.0;63.0;0;;Not available;True;False;True;True;True;47.0;7
+Conceição, Faro;280000;4;3;95.0;;0;;Not available;True;False;False;False;True;45.7;55
+Guarda, Guarda;180000;2;2;90.0;108.0;3;0.0;Energy Performance Certificate;False;False;False;False;False;49.6;160
+Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Lisboa;280000;2;1;73.0;80.0;0;;Not available;True;True;True;True;False;44.8;3
+Vilar de Andorinho, Porto;165000;2;1;93.0;108.0;0;;Not available;True;False;True;True;True;47.0;9
+Quarteira, Faro;262500;2;1;100.0;97.0;1;1.0;Not available;True;False;False;False;True;45.7;38
+Castanheira do Ribatejo e Cachoeiras, Lisboa;164900;3;2;105.0;112.0;0;4.0;Energy Performance Certificate;False;True;True;True;False;44.8;42
+Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Lisboa;352000;3;2;95.0;120.0;0;;Not available;True;True;True;True;False;44.8;3
+Madredeus, Lisboa;275000;2;1;95.0;95.0;0;;Not available;True;True;True;True;False;44.8;14
+São Cosme Zona 1, Gondomar;152500;2;1;88.0;88.0;0;1.0;Not available;True;False;True;False;False;47.1;12
+Nossa Senhora da Piedade, Santarém;241000;4;3;217.0;117.0;2;3.0;Not available;False;False;False;False;False;48.3;60
+Malveira, Mafra;265000;2;1;106.0;134.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;43.8;20
+Cascais e Estoril, Lisboa;80000;0;1;42.0;44.0;0;;Not available;True;True;True;True;True;46.9;0
+Chã, Figueira da Foz;295000;3;2;123.0;123.0;1;;Not available;True;False;False;False;True;50.9;4
+Chã, Figueira da Foz;290000;3;2;119.0;119.0;1;;Not available;True;False;False;False;True;50.9;4
+Palmela, Setúbal;185000;2;1;80.0;94.0;0;;Not available;True;False;True;True;False;45.3;30
+Chã, Figueira da Foz;285000;3;2;123.0;123.0;1;;Not available;True;False;False;False;True;50.9;4
+Chã, Figueira da Foz;280000;3;2;119.0;119.0;1;;Not available;True;False;False;False;True;50.9;4
+Chã, Figueira da Foz;285000;3;2;123.0;123.0;1;;Not available;True;False;False;False;True;50.9;4
+Chã, Figueira da Foz;265000;3;2;119.0;119.0;1;;Not available;True;False;False;False;True;50.9;4
+Campo e Sobrado, Porto;165000;2;1;96.0;112.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;18
+Chã, Figueira da Foz;275000;3;2;123.0;123.0;1;;Not available;True;False;False;False;True;50.9;4
+São Brás de Alportel, Faro;230000;3;2;85.0;94.0;0;;Not available;True;False;False;False;True;45.7;57
+Shopping, Vila Real;350000;4;3;117.0;138.0;2;2.0;Energy Performance Certificate;False;False;False;False;False;48.5;79
+Nova Palmela, Palmela;133000;2;1;66.0;77.0;0;;Not available;True;False;False;False;False;45.3;30
+Faro (Sé e São Pedro), Faro;110000;2;1;;;0;;Not available;True;False;False;False;True;45.7;54
+Chã, Figueira da Foz;270000;3;2;119.0;119.0;1;0.0;Energy Performance Certificate;False;False;False;False;True;50.9;4
+Oliveira do Douro, Porto;165000;1;1;66.0;71.0;1;3.0;Not available;True;False;True;True;True;47.0;7
+Mina de Água, Lisboa;235000;2;1;66.0;77.0;0;;Not available;True;True;True;True;False;44.8;10
+Falagueira-Venda Nova, Lisboa;195000;1;1;46.0;63.0;0;;Not available;True;True;True;True;False;44.8;9
+Mina, Amadora;169000;0;1;35.0;43.0;0;;Not available;True;False;True;True;False;44.1;9
+Ericeira, Lisboa;590000;3;2;124.0;150.0;1;2.0;Energy Performance Certificate;False;True;True;True;True;44.8;15
+Sines, Setúbal;250000;3;2;110.0;110.0;0;;Not available;True;False;True;True;False;46.6;26
+Calhariz de Benfica - Laranjeiras, Lisboa;435000;3;2;85.0;87.0;0;;Not available;True;True;True;True;False;44.8;10
+Vilamoura, Loulé;500000;2;1;92.0;92.0;1;1.0;Not available;True;False;False;False;False;46.9;37
+Caparica e Trafaria, Setúbal;225000;3;2;85.0;90.0;1;3.0;Energy Performance Certificate;False;False;True;True;False;46.6;2
+Gaia Shopping, Vila Nova de Gaia;185000;2;2;67.0;80.0;1;2.0;Not available;True;False;True;True;False;46.8;5
+Valbom Zona 3, Gondomar;155000;2;1;80.0;80.0;1;1.0;Not available;True;False;True;False;False;47.1;9
+Costa de Caparica, Almada;419900;3;2;118.0;119.0;1;1.0;Energy Performance Certificate;False;False;True;False;False;46.3;0
+Rotunda do Forcado, Santarém;380000;3;2;134.0;134.0;2;;Not available;True;False;False;False;False;48.3;56
+Vila Nova de Famalicão e Calendário, Braga;195000;2;2;105.0;105.0;1;0.0;Not available;True;False;False;True;False;44.4;23
+Quelfes, Faro;220000;2;1;74.0;88.0;0;;Not available;True;False;False;False;True;45.7;63
+Monte Abraão, Sintra;235000;2;1;95.0;106.0;0;;Not available;True;False;False;False;False;43.7;7
+São Domingos de Benfica, Lisboa;235000;1;1;50.0;51.0;0;;Not available;True;True;True;True;False;44.8;9
+Peso da Régua e Godim, Vila Real;197000;3;3;142.0;158.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;51.4;73
+Laranjeiro e Feijó, Setúbal;185000;3;2;80.0;85.0;0;;Not available;True;False;True;True;False;46.6;6
+São Vicente, Lisboa;895000;2;3;100.0;137.0;1;;Not available;True;True;True;True;False;44.8;12
+São Vicente, Lisboa;520000;1;1;49.0;58.0;1;;Not available;True;True;True;True;False;44.8;12
+São Vicente, Lisboa;550000;1;1;60.0;73.0;1;;Not available;True;True;True;True;False;44.8;12
+Laranjeiro, Almada;229000;3;2;83.0;95.0;0;;Not available;True;False;True;False;False;46.3;6
+Portimão Centro, Portimão;195000;2;1;71.0;79.0;0;;Not available;True;False;False;False;True;45.5;2
+Rio de Mouro, Lisboa;239000;3;2;85.0;96.0;0;;Not available;True;True;True;True;False;44.8;8
+São Vicente, Lisboa;565000;1;1;60.0;69.0;1;;Not available;True;True;True;True;False;44.8;12
+Rio Mau, Vila do Conde;180000;2;1;81.0;105.0;1;1.0;Not available;True;False;False;False;False;45.7;14
+Previdência, Porto;165000;3;1;92.0;92.0;0;3.0;Not available;True;False;True;True;True;47.0;0
+Póvoa de Santo Adrião e Olival Basto, Lisboa;245500;2;2;75.0;83.0;0;;Not available;True;True;True;True;False;44.8;16
+Centro, Guarda;85000;3;2;83.0;103.0;1;-1.0;Not available;True;False;False;False;False;49.6;126
+Paredes, Porto;150000;2;1;92.0;92.0;1;3.0;Not available;True;False;True;True;True;44.3;21
+Brandoa, Amadora;259899;3;2;107.0;107.0;2;3.0;Not available;True;False;True;True;False;44.1;10
+Massamá e Monte Abraão, Lisboa;278000;3;2;74.0;89.0;0;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;6
+St.º António da Caparica, Almada;329900;2;2;80.0;90.0;0;;Not available;True;False;True;False;False;46.3;0
+S. Domingos Benfica, Lisboa;460000;2;1;74.0;86.0;0;;Not available;True;True;True;True;False;44.8;9
+Quinta das Lágrimas / Quinta da Varzea, Coimbra;310000;3;2;115.0;126.0;2;1.0;Not available;True;False;False;True;False;48.3;38
+Ramalde, Porto;195000;3;2;102.0;102.0;0;;Not available;True;False;True;True;True;47.0;3
+Castelo, Castelo Branco;120000;3;2;77.0;111.0;0;;Not available;True;False;False;False;False;50.5;123
+Cascais e Estoril, Lisboa;840750;3;2;122.0;178.0;3;0.0;Energy Performance Certificate;False;True;True;True;True;46.9;0
+Cabanas Tavira, Tavira;210000;1;1;49.0;75.0;1;2.0;Not available;True;False;False;False;True;51.2;79
+Ermesinde, Porto;357000;4;3;169.0;219.0;2;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;12
+Vila Nova Caparica, Almada;225000;2;2;75.0;78.0;0;;Not available;True;False;True;False;False;46.3;2
+Perafita, Lavra e Santa Cruz do Bispo, Porto;135000;0;1;42.0;42.0;0;;Not available;True;False;True;True;True;47.0;8
+Almancil, Faro;565000;1;1;68.0;82.0;0;;Not available;True;False;False;False;True;45.7;45
+Benfica, Lisboa;325000;2;1;65.0;77.0;0;;Not available;True;True;True;True;False;44.8;9
+Faro (Sé e São Pedro), Faro;420000;5;2;161.0;186.0;0;;Not available;True;False;False;False;True;45.7;54
+Matosinhos e Leça da Palmeira, Porto;290000;1;1;52.0;73.0;1;2.0;Not available;False;False;True;True;True;47.5;4
+Olivais Sul, Lisboa;325000;3;2;82.0;82.0;0;;Not available;True;True;True;True;False;44.8;16
+Olhão Baixa, Olhão;455000;3;3;107.0;173.0;2;2.0;Energy Performance Certificate;False;False;False;False;True;46.2;62
+Polo Universitário, Porto;290000;2;2;77.0;77.0;1;2.0;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;335000;3;2;94.0;94.0;1;2.0;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;325000;3;2;87.0;87.0;1;2.0;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;280000;2;2;77.0;77.0;1;1.0;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;215000;1;1;53.0;53.0;1;1.0;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;205000;1;1;48.0;48.0;1;1.0;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;286000;1;1;89.0;89.0;0;;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;252000;1;1;67.0;67.0;0;;Not available;True;False;True;True;True;47.0;6
+Polo Universitário, Porto;210000;1;1;48.0;48.0;0;;Not available;True;False;True;True;True;47.0;6
+Arcos de Valdevez (São Paio) e Giela, Viana do Castelo;175000;1;1;38.0;38.0;1;0.0;Not available;True;False;False;False;True;55.4;39
+Matosinhos e Leça da Palmeira, Porto;465000;2;2;98.0;160.0;1;3.0;Not available;True;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;270000;1;1;41.0;48.0;1;2.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;275000;1;1;49.0;52.0;1;6.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;270000;1;1;49.0;52.0;1;5.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;265000;1;1;49.0;52.0;1;4.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;290000;1;1;41.0;48.0;1;6.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;285000;1;1;41.0;48.0;1;5.0;Not available;False;False;True;True;True;47.5;4
+Albufeira e Olhos de Água, Faro;153000;0;1;36.0;46.0;0;;Not available;True;False;False;False;True;44.4;27
+Matosinhos e Leça da Palmeira, Porto;280000;1;1;41.0;48.0;1;4.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;275000;1;1;41.0;48.0;1;3.0;Not available;False;False;True;True;True;47.5;4
+Olhão Centro, Olhão;195000;2;1;59.0;74.0;0;;Not available;True;False;False;False;True;46.2;63
+Matosinhos e Leça da Palmeira, Porto;405000;2;2;89.0;92.0;1;6.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;395000;2;2;89.0;92.0;1;4.0;Not available;False;False;True;True;True;47.5;4
+Albufeira e Olhos de Água, Faro;210000;1;1;44.0;50.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;44.4;27
+Benfica, Lisboa;350000;2;1;75.0;80.0;0;;Not available;True;True;True;True;False;44.8;9
+Matosinhos e Leça da Palmeira, Porto;390000;2;2;89.0;92.0;1;3.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;475000;2;2;95.0;110.0;1;3.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;445000;2;2;85.0;98.0;1;5.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;450000;2;2;85.0;98.0;1;6.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;440000;2;2;85.0;98.0;1;4.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;435000;2;2;85.0;98.0;1;3.0;Not available;False;False;True;True;True;47.5;4
+Nacional 1, Santa Maria da Feira;132000;2;1;76.0;76.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;47.1;12
+Santa Maria Maior, Lisboa;469500;2;1;90.0;95.0;0;;Not available;True;True;True;True;False;44.8;11
+Matosinhos e Leça da Palmeira, Porto;430000;2;2;85.0;98.0;1;2.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;455000;2;2;89.0;104.0;1;4.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;450000;2;2;89.0;104.0;1;3.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;445000;2;2;89.0;104.0;1;2.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;580000;3;3;123.0;137.0;2;5.0;Not available;False;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;570000;3;3;123.0;137.0;2;3.0;Not available;True;False;True;True;True;47.5;4
+Matosinhos e Leça da Palmeira, Porto;565000;3;3;123.0;137.0;2;2.0;Not available;False;False;True;True;True;47.5;4
+ERA Palmela Azeitao, Barreiro;149000;2;1;;;0;;Not available;True;False;False;False;False;47.0;23
+Lisboa, Amadora;139000;3;1;68.0;68.0;0;;Not available;True;True;True;True;False;44.1;8
+Santo António da Charneca, Setúbal;165000;3;1;84.0;97.0;0;;Not available;True;False;True;True;False;46.6;17
+S. Gens, Matosinhos;299000;2;2;88.0;204.0;1;0.0;Energy Performance Certificate;False;False;True;False;False;47.5;5
+Águas Santas, Porto;190000;3;2;119.0;136.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;10
+São Cosme Zona 6, Gondomar;240000;2;1;;;0;;Not available;True;False;True;False;False;47.1;12
+Valongo, Porto;265000;3;3;151.0;282.0;2;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;15
+Silvares, Pias, Nogueira e Alvarenga, Porto;115000;2;1;92.0;102.0;2;2.0;Not available;True;False;True;True;True;47.0;37
+Moledo e Cristelo, Viana do Castelo;350000;3;2;131.0;131.0;0;;Not available;True;False;False;False;True;48.8;17
+Rio Tinto - Av. da Conduta, Gondomar;167500;2;1;85.0;98.0;1;0.0;Not available;True;False;True;False;False;47.1;10
+Verderena / Avenida do Bocage, Barreiro;250000;3;1;72.0;72.0;0;;Not available;True;False;False;False;False;47.0;14
+Verderena / Estação dos Barcos, Barreiro;172500;3;1;76.0;84.0;0;;Not available;True;False;False;False;False;47.0;14
+Paranhos, Porto;270000;2;1;61.0;67.0;0;1.0;Not available;True;False;True;True;True;47.0;6
+Meixomil, Porto;150000;2;2;79.0;88.0;1;2.0;Not available;True;False;True;True;True;47.0;27
+Serra das Minas, Sintra;155000;2;1;71.0;79.0;0;;Not available;True;False;False;False;False;43.7;9
+Arroios, Lisboa;599000;4;2;145.0;145.0;1;6.0;Energy Performance Certificate;False;True;True;True;False;44.8;12
+Algueirão, Sintra;219000;3;2;72.0;75.0;0;;Not available;True;False;False;False;False;43.7;11
+Santa Clara e Castelo Viegas, Coimbra;150000;2;1;89.0;104.0;1;3.0;Not available;True;False;False;True;False;48.3;38
+ERA Palmela Azeitao, Moita;125000;3;2;63.0;83.0;0;;Not available;True;False;False;False;False;45.0;29
+Pegões, Montijo;297000;3;2;136.0;150.0;1;2.0;Not available;True;False;False;False;False;42.6;55
+Pragal, Almada;335000;4;2;108.0;121.0;0;;Not available;True;False;True;False;False;46.3;6
+Seia, São Romão e Lapa dos Dinheiros, Guarda;89000;2;1;68.0;79.0;1;0.0;Not available;True;False;False;False;False;49.6;102
+ERA Palmela Azeitao, Setúbal;150000;1;1;40.0;56.0;0;;Not available;True;False;True;True;False;45.3;29
+Campo de Ourique, Lisboa;955000;2;2;94.0;107.0;1;2.0;Not available;False;True;True;True;False;44.8;10
+ERA Palmela Azeitao, Setúbal;250000;3;2;99.0;94.0;0;;Not available;True;False;True;True;False;45.3;29
+Gandra, Porto;139000;2;1;80.0;80.0;1;2.0;Not available;True;False;True;True;True;47.0;20
+Laranjeiro e Feijó, Setúbal;206000;3;2;85.0;91.0;0;;Not available;True;False;True;True;False;46.6;6
+Oliveira do Douro, Porto;130000;2;1;71.0;84.0;0;;Not available;True;False;True;True;True;47.0;7
+Espinho, Aveiro;279000;3;2;92.0;104.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;51.1;0
+Nogueira, Fraião e Lamaçães, Braga;349900;3;3;129.0;143.0;2;2.0;Not available;False;False;False;True;False;44.4;31
+Campo de Ourique, Lisboa;399000;2;1;62.0;70.0;0;2.0;Not available;True;True;True;True;False;44.8;10
+Pedroso e Seixezelo, Porto;167500;3;1;94.0;94.0;1;2.0;Not available;True;False;True;True;True;47.0;9
+Nossa Senhora da Piedade, Santarém;220000;4;3;214.0;237.0;0;;Not available;True;False;False;False;False;48.3;60
+Nevogilde, Porto;560000;3;2;131.0;142.0;1;2.0;Not available;True;False;True;True;True;47.0;2
+Marrazes e Barosa, Leiria;210000;4;4;110.0;198.0;2;2.0;Not available;True;False;False;False;False;46.4;45
+Chainça, Abrantes;114000;3;2;120.0;163.0;0;;Not available;True;False;False;False;False;53.4;95
+Setúbal (São Sebastião), Setúbal;149000;2;1;53.0;64.0;0;;Not available;True;False;True;True;False;46.6;34
+Nogueira da Regedoura, Aveiro;228000;3;2;127.0;127.0;2;2.0;Energy Performance Certificate;False;False;False;False;True;45.5;5
+Fogueteiro, Seixal;167500;3;2;110.0;119.0;0;;Not available;True;False;False;False;False;44.9;12
+Alverca do Ribatejo e Sobralinho, Lisboa;159000;2;1;55.0;57.0;0;0.0;Not available;True;True;True;True;False;44.8;31
+Pinhal Novo, Setúbal;140000;2;1;61.0;66.0;0;;Not available;True;False;True;True;False;46.6;27
+Matosinhos e Leça da Palmeira, Porto;285000;3;3;122.0;146.0;2;;Not available;True;False;True;True;True;47.5;4
+Antas, Porto;275000;0;1;38.0;38.0;1;10.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Vila Praia de Âncora, Viana do Castelo;125000;1;1;46.0;46.0;1;3.0;Not available;True;False;False;False;True;48.8;13
+Ao Tojal, Lisboa;320000;2;1;66.0;75.0;0;;Not available;True;True;True;True;False;44.8;35
+Lisboa, Lisboa;699000;3;3;127.0;127.0;0;;Not available;True;True;True;True;False;44.8;11
+Antas, Porto;275000;0;1;38.0;;0;;Not available;True;False;True;True;True;47.0;7
+Moscavide, Loures;259000;2;1;52.0;52.0;0;;Not available;True;False;False;False;False;44.6;18
+São Vicente, Lisboa;549000;4;2;125.0;125.0;0;1.0;Not available;True;True;True;True;False;44.8;12
+Portimão, Faro;220000;2;1;60.0;74.0;1;1.0;Not available;True;False;False;False;True;45.7;1
+Portimão, Faro;225000;3;2;91.0;112.0;0;;Not available;True;False;False;False;True;45.7;1
+Dafundo, Oeiras;249000;2;1;59.0;65.0;0;;Not available;True;False;False;False;False;46.5;3
+Santo António dos Cavaleiros e Frielas, Lisboa;295000;2;2;;;0;3.0;Not available;False;True;True;True;False;44.8;18
+Santa Maria Maior, Vila Real;175000;2;2;103.0;111.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;48.5;111
+Jardins de Benfica, Lisboa;600000;2;2;;;0;;Not available;True;True;True;True;False;44.8;9
+Belém, Lisboa;595000;2;2;85.0;100.0;1;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;6
+Chafé, Viana do Castelo;142500;1;1;44.0;44.0;1;1.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;140000;1;1;43.0;43.0;1;1.0;Not available;True;False;False;False;True;48.8;6
+Samora Correia, Santarém;139000;2;1;75.0;75.0;0;;Not available;True;False;False;False;False;48.3;43
+Setúbal (São Sebastião), Setúbal;195000;4;2;90.0;105.0;0;;Not available;True;False;True;True;False;46.6;34
+Lousã, Lousã;249000;3;3;110.0;245.0;2;2.0;Not available;True;False;False;False;False;47.4;54
+Corroios, Setúbal;298000;4;2;130.0;140.0;0;;Not available;True;False;True;True;False;46.6;7
+Torres da Bela Vista, Loures;215000;3;2;95.0;95.0;0;;Not available;True;False;False;False;False;44.6;18
+Olhão, Faro;180000;2;1;66.0;69.0;0;;Not available;True;False;False;False;True;45.7;62
+Areeiro, Lisboa;450000;3;1;100.0;100.0;0;;Not available;True;True;True;True;False;44.8;14
+Santa Maria da Feira, Travanca, Sanfins e Espargo, Aveiro;270000;3;3;125.0;165.0;1;4.0;Energy Performance Certificate;False;False;False;False;True;47.1;11
+Benfica, Lisboa;435000;2;2;86.0;102.0;1;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;9
+Carvalhido, Porto;185000;2;1;83.0;;0;;Not available;True;False;True;True;True;47.0;4
+Odivelas, Odivelas;240000;2;1;95.0;95.0;0;;Not available;True;False;False;False;False;43.7;14
+Gouveia, Guarda;72500;3;2;78.0;94.0;0;;Not available;True;False;False;False;False;58.1;105
+Centro, Olhão;189500;2;1;65.0;88.0;0;;Not available;True;False;False;False;True;46.2;62
+Carregado e Cadafais, Lisboa;164300;2;2;70.0;85.0;0;;Not available;True;True;True;True;False;44.8;45
+Albufeira e Olhos de Água, Faro;550000;1;2;78.0;88.0;1;3.0;Energy Performance Certificate;False;False;False;False;True;44.4;27
+Moncarapacho e Fuseta, Faro;165000;1;1;64.0;64.0;1;0.0;Not available;True;False;False;False;True;45.7;66
+Parque das Nações - Expo Sul, Lisboa;899900;4;3;199.0;199.0;3;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;17
+Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Lisboa;585000;3;2;;;0;;Not available;True;True;True;True;False;44.8;1
+Ferreiras, Faro;170000;2;1;51.0;64.0;0;;Not available;True;False;False;False;True;45.7;25
+Belas, Sintra;185000;2;1;66.0;78.0;0;;Not available;True;False;False;False;False;43.7;9
+SJM 3, São João da Madeira;153000;2;2;87.0;93.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;47.0;17
+Lejana, Faro;350000;2;2;80.0;94.0;0;;Not available;True;False;False;False;True;45.7;54
+Marco, Porto;134500;3;2;109.0;109.0;0;;Not available;True;False;True;True;True;47.0;60
+Lumiar, Lisboa;365000;2;1;78.0;90.0;1;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;13
+Almada, Almada;215000;3;1;;;0;;Not available;True;False;True;False;False;46.3;6
+Mealhada, Ventosa do Bairro e Antes, Aveiro;187500;4;2;107.0;126.0;0;;Not available;True;False;False;False;True;45.5;43
+Vila Nova Caparica, Almada;300000;3;2;152.0;94.0;0;;Not available;True;False;True;False;False;46.3;2
+Águas Santas, Porto;315000;3;2;120.0;136.0;1;2.0;Not available;True;False;True;True;True;47.0;10
+Olhão Centro, Olhão;280000;3;2;103.0;129.0;0;;Not available;True;False;False;False;True;46.2;63
+C1 - Rechousa, Vila Nova de Gaia;210000;2;2;94.0;104.0;1;3.0;Not available;False;False;True;True;False;46.8;9
+Ajuda, Lisboa;335000;2;2;48.0;60.0;0;2.0;Not available;True;True;True;True;False;44.8;8
+Fátima, Santarém;186000;3;2;100.0;100.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;48.3;64
+Vila Real de Santo António, Vila Real de Santo António;328000;3;2;121.0;217.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;48.5;99
+Trofa, Águeda;160000;3;3;135.0;135.0;3;1.0;Not available;True;False;False;False;False;45.8;46
+Carnaxide, Oeiras;479000;2;3;124.0;152.0;2;0.0;Energy Performance Certificate;False;False;False;False;False;46.5;5
+Baleal, Peniche;465000;3;3;121.0;214.0;2;4.0;Energy Performance Certificate;False;False;False;False;True;47.9;5
+Tribunal, Braga;139900;3;1;100.0;100.0;1;2.0;Not available;False;False;False;True;False;44.4;30
+Covilhã e Canhoso, Castelo Branco;182500;3;2;135.0;135.0;1;2.0;Not available;True;False;False;False;False;50.5;118
+Venteira, Lisboa;220000;2;1;70.0;75.0;0;;Not available;True;True;True;True;False;44.8;8
+Paredes, Porto;169500;2;2;110.0;110.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;44.3;21
+Quarteira, Faro;495000;2;2;139.0;165.0;1;;Not available;True;False;False;False;True;45.7;38
+São Vicente, Lisboa;395000;2;1;95.0;104.0;0;5.0;Not available;True;True;True;True;False;44.8;12
+Casal do Chapim, Odivelas;275000;3;2;90.0;90.0;0;;Not available;True;False;False;False;False;43.7;14
+Senhora da Hora, Matosinhos;165000;1;1;65.0;65.0;2;0.0;Not available;True;False;True;False;False;47.5;4
+Cruz de Pau, Seixal;160000;2;1;82.0;82.0;0;;Not available;True;False;False;False;False;44.9;11
+Feijó, Almada;280000;3;2;81.0;98.0;1;0.0;Energy Performance Certificate;False;False;True;False;False;46.3;6
+Carnide, Lisboa;430000;3;1;74.0;81.0;0;;Not available;True;True;True;True;False;44.8;11
+S. Domingos Benfica, Lisboa;365000;2;2;63.0;66.0;0;;Not available;True;True;True;True;False;44.8;9
+Olhão Centro, Olhão;240000;3;2;82.0;105.0;0;;Not available;True;False;False;False;True;46.2;63
+Odivelas Centro, Odivelas;250000;3;2;87.0;87.0;0;;Not available;True;False;False;False;False;43.7;14
+Baixa da Banheira e Vale da Amoreira, Setúbal;139000;2;1;75.0;95.0;0;;Not available;True;False;True;True;False;46.6;16
+Currelos, Papízios e Sobral, Viseu;80000;2;2;143.0;139.0;0;;Not available;True;False;False;False;False;46.9;78
+Lagares, Coimbra;127500;3;2;86.0;96.0;1;1.0;Not available;True;False;False;True;False;48.3;90
+Currelos, Papízios e Sobral, Viseu;95000;2;2;83.0;107.0;0;;Not available;True;False;False;False;False;46.9;78
+Pontinha e Famões, Lisboa;159500;1;1;47.0;47.0;0;;Not available;True;True;True;True;False;44.8;12
+Lamego (Almacave e Sé), Viseu;170900;2;2;78.0;87.0;2;3.0;Not available;True;False;False;False;False;51.5;71
+Águas Santas, Porto;520000;4;4;145.0;308.0;2;6.0;Not available;True;False;True;True;True;47.0;10
+Matadouro de Campanhã, Porto;190000;2;2;66.0;90.0;0;1.0;Not available;True;False;True;True;True;47.0;8
+Águas Santas, Porto;265000;2;2;97.0;105.0;1;1.0;Not available;True;False;True;True;True;47.0;10
+Aos Arneiros, Lisboa;269900;1;1;34.0;81.0;0;;Not available;True;True;True;True;False;44.8;27
+Currelos, Papízios e Sobral, Viseu;145000;3;1;111.0;148.0;0;;Not available;True;False;False;False;False;46.9;78
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;140000;3;1;71.0;71.0;0;;Not available;True;False;False;False;False;52.8;6479
+Esposende, Esposende;245000;3;2;161.0;161.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;45.3;2
+Urb. Colinas do Cruzeiro, Odivelas;548000;3;2;126.0;206.0;4;5.0;Energy Performance Certificate;False;False;False;False;False;43.7;13
+Souto do Rio, Águeda;120000;2;1;78.0;78.0;0;2.0;Not available;True;False;False;False;False;49.1;52
+São Félix da Marinha, Porto;480000;3;2;145.0;196.0;2;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;2
+Belas, Sintra;220000;2;1;63.0;67.0;0;;Not available;True;False;False;False;False;43.7;9
+Galiza, Porto;195000;1;1;46.0;51.0;0;8.0;Energy Performance Certificate;False;False;True;True;True;47.0;47
+Paços de Ferreira, Porto;157000;2;1;95.0;95.0;1;2.0;Not available;True;False;True;True;True;47.0;28
+Massamá 2ª Fase, Sintra;180000;2;1;70.0;85.0;0;;Not available;True;False;False;False;False;43.7;6
+Sacavém e Prior Velho, Lisboa;194000;2;1;70.0;;0;;Not available;True;True;True;True;False;44.8;18
+Hospital da Cruz Vermelha - Laranjeiras, Lisboa;550000;3;2;145.0;145.0;0;;Not available;True;True;True;True;False;44.8;11
+Pedroso e Seixezelo, Porto;160000;1;1;;;0;;Not available;True;False;True;True;True;47.0;9
+Torres Novas (São Pedro), Lapas e Ribeira Branca, Santarém;94500;4;1;;;0;;Not available;True;False;False;False;False;50.2;83
+Santa Marinha e São Pedro da Afurada, Porto;240000;3;2;101.0;105.0;0;;Not available;True;False;True;True;True;47.0;4
+Seixal, Arrentela e Aldeia de Paio Pires, Setúbal;455000;2;2;80.0;98.0;1;0.0;Energy Performance Certificate;False;False;True;True;False;44.9;11
+Ermesinde, Porto;180000;2;2;89.0;93.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;12
+Laranjeiras Metro, Lisboa;810000;4;2;170.0;170.0;2;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;11
+Massamá 6ª Fase, Sintra;329900;3;2;140.0;155.0;0;;Not available;True;False;False;False;False;43.7;6
+Ferrel, Peniche;355000;3;2;91.0;115.0;1;1.0;Not available;True;False;False;False;True;47.9;5
+Ferrel, Peniche;340000;3;2;75.0;96.0;1;1.0;Not available;True;False;False;False;True;47.9;5
+Ferrel, Peniche;240000;1;1;53.0;67.0;1;0.0;Not available;True;False;False;False;True;47.9;5
+Ferrel, Peniche;290000;2;2;66.0;81.0;1;0.0;Not available;True;False;False;False;True;47.9;5
+Ferrel, Peniche;330000;3;2;74.0;96.0;1;0.0;Not available;True;False;False;False;True;47.9;5
+Coronado (São Romão e São Mamede), Porto;174000;3;2;130.0;147.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;16
+Esposende, Marinhas e Gandra, Braga;210000;2;2;85.0;91.0;1;;Not available;True;False;False;True;False;44.4;3
+Santa Maria Maior, Lisboa;165000;1;1;50.0;50.0;0;;Not available;True;True;True;True;False;44.8;11
+Valadares e Francelos, Vila Nova de Gaia;174900;2;2;70.0;77.0;1;;Not available;True;False;True;True;False;46.8;8
+Gondomar (São Cosme), Valbom e Jovim, Porto;149000;2;2;80.0;93.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.1;11
+Campolide, Lisboa;284000;2;1;71.0;82.0;0;;Not available;True;True;True;True;False;44.8;10
+Covilhã, Covilhã;85000;2;1;72.0;90.0;0;;Not available;True;False;False;False;False;52.0;117
+Mina, Amadora;200000;2;1;50.0;60.0;0;;Not available;True;False;True;True;False;44.1;9
+St.º António da Caparica, Almada;449900;4;2;112.0;148.0;0;;Not available;True;False;True;False;False;46.3;0
+São Domingos de Rana, Lisboa;590000;3;2;100.0;161.0;2;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;4
+Vila Chã, Vila do Conde;269000;3;2;97.0;97.0;1;3.0;Not available;True;False;False;False;False;45.7;16
+São Félix da Marinha III, Vila Nova de Gaia;233000;3;3;125.0;125.0;2;0.0;Not available;True;False;True;True;False;46.8;2
+Vilar de Andorinho, Vila Nova de Gaia;155000;2;1;92.0;100.0;0;1.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Caparica e Trafaria, Setúbal;199000;2;1;75.0;77.0;1;1.0;Not available;True;False;True;True;False;46.6;2
+Bairro Norton de Matos, Coimbra;310000;3;2;97.0;119.0;0;;Not available;True;False;False;True;False;48.3;40
+Monte, Murtosa;157000;2;1;93.0;113.0;1;2.0;Not available;True;False;False;False;False;46.8;28
+Cacém e São Marcos, Lisboa;165000;2;1;66.0;73.0;0;;Not available;True;True;True;True;False;44.8;8
+Lordelo do Ouro, Porto;525000;5;3;166.0;197.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;1
+Braga (Maximinos, Sé e Cividade), Braga;190000;3;2;124.0;124.0;1;2.0;Not available;True;False;False;True;False;44.4;28
+Quarteira, Faro;360000;2;1;;;0;;Not available;True;False;False;False;True;45.7;38
+Campanhã, Porto;187000;3;2;92.0;96.0;0;3.0;Not available;True;False;True;True;True;47.0;8
+Lagoa e Carvoeiro, Faro;235000;2;1;71.0;100.0;0;;Not available;True;False;False;False;True;45.7;9
+Ajuda, Lisboa;199000;1;1;50.0;55.0;0;1.0;Not available;True;True;True;True;False;44.8;8
+Av. Fernão Magalhães, Coimbra;257500;1;1;50.0;68.0;1;9.0;Energy Performance Certificate;False;False;False;True;False;48.3;38
+Rio Tinto - Cidade Jovem, Gondomar;260000;2;2;108.0;108.0;1;4.0;Energy Performance Certificate;False;False;True;False;False;47.1;11
+Gulpilhares e Valadares, Porto;185000;2;2;94.0;108.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Estrada Monumental, Funchal;595000;2;2;64.0;94.0;2;9.0;Energy Performance Certificate;False;False;False;True;False;48.0;914
+Oliveira do Douro, Porto;198000;2;2;97.0;116.0;1;6.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Cidade da Maia, Porto;269000;3;2;101.0;106.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;45.5;9
+Linda-a-velha, Oeiras;255000;2;1;70.0;77.0;0;;Not available;True;False;False;False;False;46.5;4
+Lourinhã e Atalaia, Lisboa;173000;1;1;51.0;57.0;1;;Not available;True;True;True;True;False;47.1;10
+Massamá, Sintra;190000;2;1;74.0;82.0;0;;Not available;True;False;False;False;False;43.7;6
+Gualtar, Braga;209000;3;2;108.0;135.0;1;3.0;Not available;True;False;False;True;False;44.4;29
+Torno, Porto;123500;2;1;102.0;117.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;41
+Cacilhas, Almada;185000;2;1;69.0;72.0;0;;Not available;True;False;True;False;False;46.3;8
+Cacém e São Marcos, Lisboa;198000;2;1;83.0;90.0;0;;Not available;True;True;True;True;False;44.8;8
+Cova da Piedade, Almada;329000;2;2;94.0;122.0;1;2.0;Energy Performance Certificate;False;False;True;False;False;46.3;7
+Samora Correia, Santarém;155000;3;2;121.0;121.0;0;;Not available;True;False;False;False;False;48.3;43
+Alhandra, Vila Franca de Xira;125000;2;1;45.0;64.0;0;;Not available;True;False;False;False;False;44.1;35
+Matosinhos e Leça da Palmeira, Porto;135000;3;1;80.0;145.0;0;;Not available;True;False;True;True;True;47.5;4
+Mafamude e Vilar do Paraíso, Porto;275000;2;2;117.0;134.0;1;5.0;Not available;False;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;270000;2;2;117.0;134.0;1;4.0;Not available;False;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;190000;1;2;85.0;85.0;0;;Not available;True;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;265000;2;2;104.0;120.0;1;4.0;Not available;False;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;270000;2;2;117.0;137.0;1;3.0;Not available;False;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;180000;1;2;85.0;85.0;0;;Not available;True;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;265000;2;2;117.0;133.0;1;2.0;Not available;False;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;175000;1;2;85.0;85.0;0;;Not available;True;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;210000;2;2;104.0;104.0;0;;Not available;True;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;250000;2;2;117.0;135.0;1;1.0;Not available;False;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;170000;1;2;86.0;86.0;0;;Not available;True;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;200000;2;2;104.0;122.0;0;;Not available;True;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;160000;1;2;67.0;67.0;0;;Not available;True;False;True;True;True;47.0;6
+Mafamude e Vilar do Paraíso, Porto;195000;2;2;104.0;122.0;1;0.0;Not available;False;False;True;True;True;47.0;6
+Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Lisboa;490000;3;2;103.0;113.0;0;;Not available;True;True;True;True;False;44.8;1
+Selho (São Jorge), Braga;216000;3;3;140.0;154.0;2;4.0;Not available;True;False;False;True;False;44.4;35
+Graça, Lisboa;350000;2;1;61.0;71.0;0;;Not available;True;True;True;True;False;44.8;12
+Chiado, Lisboa;895000;3;4;147.0;163.0;0;;Not available;True;True;True;True;False;44.8;10
+Praça Rainha D. Amélia, Porto;165000;1;1;40.0;43.0;0;;Not available;True;False;True;True;True;47.0;6
+Montijo e Afonsoeiro, Setúbal;197500;3;2;78.0;95.0;0;;Not available;True;False;True;True;False;42.6;25
+Avenidas Novas, Lisboa;335000;0;1;47.0;64.0;1;4.0;Energy Performance Certificate;False;True;True;True;False;44.8;13
+Castelo Branco, Castelo Branco;137000;4;2;148.0;195.0;0;;Not available;True;False;False;False;False;50.5;124
+Moncarapacho e Fuseta, Faro;165000;1;1;64.0;64.0;1;1.0;Not available;True;False;False;False;True;45.7;66
+São Domingos de Benfica, Lisboa;375000;1;1;62.0;62.0;1;2.0;Not available;True;True;True;True;False;44.8;9
+Vila do Conde, Porto;950000;4;3;181.0;190.0;2;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;18
+Penha de França, Lisboa;350000;3;1;;;0;;Not available;True;True;True;True;False;44.8;12
+Lavradio, Barreiro;115000;2;1;52.0;61.0;0;;Not available;True;False;False;False;False;47.0;15
+Lumiar, Lisboa;299000;1;1;66.0;66.0;1;0.0;Energy Performance Certificate;False;True;True;True;False;44.8;13
+Estrada Monumental, Funchal;580000;2;2;64.0;94.0;2;10.0;Energy Performance Certificate;False;False;False;True;False;48.0;914
+ERA Palmela Azeitao, Seixal;170000;2;1;79.0;87.0;0;;Not available;True;False;False;False;False;45.3;29
+Santa Marta do Pinhal, Seixal;182000;2;1;77.0;77.0;0;;Not available;True;False;False;False;False;44.9;11
+ERA Palmela Azeitao, Barreiro;225000;3;2;111.0;125.0;0;;Not available;True;False;False;False;False;47.0;23
+ERA Palmela Azeitao, Moita;120000;1;1;51.0;61.0;0;;Not available;True;False;False;False;False;45.0;29
+Vale Churido, Bragança;139000;3;2;;;0;;Not available;True;False;False;True;False;44.4;170
+Loures, Loures;240000;2;1;63.0;63.0;0;;Not available;True;False;False;False;False;44.6;18
+Marvila, Lisboa;255000;2;1;77.0;77.0;0;;Not available;True;True;True;True;False;44.8;15
+Santa Clara, Coimbra;168000;2;1;90.0;98.0;1;;Not available;True;False;False;True;False;48.3;37
+Rio Tinto, Porto;180000;2;2;81.0;98.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;9
+Vendas Novas, Évora;165000;3;2;110.0;110.0;0;;Not available;True;False;False;False;False;46.9;67
+Loulé (São Sebastião), Faro;265000;2;1;60.0;79.0;0;0.0;Not available;True;False;False;False;True;45.7;40
+Loulé (São Sebastião), Faro;265000;2;1;59.0;74.0;0;1.0;Not available;True;False;False;False;True;45.7;40
+Loulé, Loulé;270000;2;1;61.0;78.0;0;1.0;Not available;True;False;False;False;False;46.9;45
+Marinha Grande, Leiria;155000;3;2;100.0;108.0;1;2.0;Not available;True;False;False;False;False;46.4;46
+Canidelo, Porto;625000;2;2;92.0;105.0;2;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Castelo Branco, Castelo Branco;215000;3;3;110.0;138.0;3;1.0;Not available;True;False;False;False;False;50.5;124
+Vila Nova de Paiva, Vila Nova de Paiva;99000;3;2;96.0;109.0;1;1.0;Not available;True;False;False;False;False;53.7;75
+Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu), Coimbra;237500;4;2;99.0;128.0;1;2.0;Not available;False;False;False;True;False;48.3;40
+Granja Park, Castelo Branco;227000;3;2;117.0;140.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;50.5;123
+Ajuda, Funchal;480000;3;2;113.0;134.0;3;4.0;Energy Performance Certificate;False;False;False;True;False;48.0;913
+Santa Marinha e São Pedro da Afurada, Porto;200000;1;2;59.0;69.0;1;1.0;Not available;True;False;True;True;True;47.0;4
+Entroncamento, Entroncamento;156000;3;2;108.0;108.0;1;;Not available;True;False;False;False;False;45.5;77
+Guarda, Guarda;82380;4;2;80.0;90.0;0;;Not available;True;False;False;False;False;49.6;160
+Pampilhosa, Mealhada;120000;2;1;92.0;101.0;0;;Not available;True;False;False;False;False;49.3;43
+Campolide, Lisboa;420000;2;1;62.0;62.0;0;8.0;Energy Performance Certificate;False;True;True;True;False;44.8;10
+Custóias, Matosinhos;178000;2;1;68.0;83.0;1;0.0;Not available;True;False;True;False;False;47.5;6
+Campo de Ourique, Lisboa;349500;1;1;54.0;61.0;0;;Not available;True;True;True;True;False;44.8;10
+Alto Sto Amaro, Lisboa;250000;1;1;27.0;37.0;0;0.0;Energy Performance Certificate;False;True;True;True;False;44.8;11
+Alhos Vedros, Setúbal;95000;1;1;;;0;;Not available;True;False;True;True;False;46.6;19
+Vila Praia de Âncora, Viana do Castelo;280000;4;3;155.0;161.0;2;;Not available;True;False;False;False;True;48.8;13
+Paços de Ferreira, Porto;270000;3;3;130.0;143.0;2;0.0;Energy Performance Certificate;False;False;True;True;True;47.0;28
+Corroios, Setúbal;170000;3;1;93.0;93.0;0;;Not available;True;False;True;True;False;46.6;7
+Vilamoura, Loulé;350000;1;1;62.0;62.0;0;3.0;Not available;True;False;False;False;False;46.9;37
+Santa Marinha e Afurada, Vila Nova de Gaia;650000;3;3;128.0;156.0;2;6.0;Not available;True;False;True;True;False;46.8;4
+São Marcos, Sintra;189900;2;1;76.0;82.0;0;;Not available;True;False;False;False;False;43.7;6
+Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto;460000;2;3;;;0;;Not available;True;False;True;True;True;47.0;5
+Barcarena, Lisboa;189000;2;2;75.0;81.0;0;;Not available;True;True;True;True;False;44.8;4
+Barcouço, Mealhada;129500;2;1;105.0;128.0;1;1.0;Not available;True;False;False;False;False;49.3;38
+Rua do Brasil / Quinta D. João, Coimbra;220000;2;1;82.0;90.0;0;;Not available;True;False;False;True;False;48.3;39
+Canidelo, Vila Nova de Gaia;600000;2;2;92.0;105.0;2;1.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Praia Leça da Palmeira, Matosinhos;650000;3;2;134.0;201.0;3;5.0;Not available;False;False;True;False;False;47.5;4
+Aguada de Cima, Águeda;148000;2;1;88.0;88.0;2;1.0;Not available;True;False;False;False;False;49.1;54
+Laranjeiro, Almada;145500;1;1;45.0;50.0;0;;Not available;True;False;True;False;False;46.3;6
+Águas Santas, Porto;195000;2;2;106.0;128.0;1;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;10
+Cidade da Maia, Porto;180000;2;1;82.0;82.0;0;;Not available;True;False;True;True;True;45.5;9
+Santa Marinha, Vila Nova de Gaia;130000;1;1;45.0;48.0;0;;Not available;True;False;True;True;False;46.8;4
+Arroja, Odivelas;195000;2;1;75.0;75.0;0;;Not available;True;False;False;False;False;43.7;14
+Alfena, Porto;172500;3;2;112.0;125.0;1;0.0;Not available;True;False;True;True;True;47.0;15
+Peniche, Peniche;162500;2;1;82.0;82.0;1;1.0;Not available;True;False;False;False;True;47.9;4
+Alcabideche, Lisboa;480000;3;2;80.0;86.0;1;0.0;Not available;True;True;True;True;False;44.8;4
+Albufeira e Olhos de Água, Faro;159500;1;1;57.0;65.0;0;;Not available;True;False;False;False;True;44.4;27
+Almancil Centro, Loulé;290000;2;2;157.0;176.0;1;3.0;Not available;False;False;False;False;False;46.9;45
+Bonfim, Porto;165000;2;1;86.0;196.0;0;;Not available;True;False;True;True;True;47.0;6
+Massamá 2ª Fase, Sintra;219900;2;1;83.0;96.0;0;;Not available;True;False;False;False;False;43.7;6
+Arcos de Valdevez (Salvador), Vila Fonche e Parada, Viana do Castelo;207000;3;2;192.0;152.0;1;;Not available;True;False;False;False;True;55.4;37
+Covilhã, Covilhã;175000;3;2;96.0;100.0;0;;Not available;True;False;False;False;False;52.0;117
+Faro (Sé e São Pedro), Faro;240000;2;1;66.0;79.0;1;3.0;Not available;True;False;False;False;True;45.7;54
+Consolação, Peniche;198000;2;1;63.0;96.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;47.9;0
+Espinho I, Espinho;195000;1;1;57.0;57.0;1;1.0;Not available;False;False;False;False;False;51.1;87
+Santa Iria de Azoia, São João da Talha e Bobadela, Lisboa;219000;2;1;92.0;92.0;0;;Not available;True;True;True;True;False;44.8;22
+Estrela, Lisboa;435000;2;1;76.0;76.0;0;;Not available;True;True;True;True;False;44.8;8
+Oliveira do Douro, Porto;184500;3;2;99.0;112.0;1;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Quinta da Cabrinha, Seixal;259500;3;2;99.0;115.0;0;;Not available;True;False;False;False;False;44.9;13
+C2 - Quinta dos Bispos, Vila Nova de Gaia;170000;2;2;94.0;100.0;1;3.0;Energy Performance Certificate;False;False;True;True;False;46.8;9
+Lisboa, Lisboa;595000;3;2;126.0;126.0;1;6.0;Energy Performance Certificate;False;True;True;True;False;44.8;11
+Armação de Pêra, Silves;235000;2;2;71.0;90.0;1;4.0;Energy Performance Certificate;False;False;False;False;True;47.1;15
+Póvoa de Santa Iria e Forte da Casa, Lisboa;183000;2;1;50.0;55.0;0;1.0;Not available;True;True;True;True;False;44.8;26
+Bemposta, Portimão;210000;1;1;60.0;71.0;0;;Not available;True;False;False;False;True;45.5;3
+Sesimbra (Castelo), Setúbal;308000;3;2;115.0;146.0;0;;Not available;True;False;True;True;True;44.8;20
+Pinheiro Manso, Porto;240000;3;2;106.0;119.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;2
+Faro (Sé e São Pedro), Faro;250000;3;2;83.0;102.0;0;;Not available;True;False;False;False;True;45.7;54
+Marquês, Porto;374771;2;2;93.0;134.0;1;3.0;Not available;True;False;True;True;True;47.0;5
+Marquês, Porto;375475;2;2;97.0;132.0;1;2.0;Not available;True;False;True;True;True;47.0;5
+Marquês, Porto;364500;2;2;93.0;119.0;1;2.0;Not available;True;False;True;True;True;47.0;5
+Marquês, Porto;645000;2;2;163.0;329.0;2;0.0;Not available;True;False;True;True;True;47.0;5
+Moscavide e Portela, Lisboa;350000;4;2;100.0;100.0;0;;Not available;True;True;True;True;False;44.8;18
+Pinhal Novo, Setúbal;247500;3;2;118.0;208.0;2;0.0;Energy Performance Certificate;False;False;True;True;False;46.6;27
+Águas Livres, Lisboa;160000;2;1;72.0;78.0;0;;Not available;True;True;True;True;False;44.8;8
+Ajuda, Lisboa;379000;2;1;60.0;60.0;0;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;8
+Caniço de Baixo, Santa Cruz;380000;3;2;115.0;150.0;2;2.0;Not available;True;False;False;False;False;43.7;905
+Tavira (Santa Maria e Santiago), Faro;260000;2;2;86.0;102.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;45.7;79
+Paderne, Faro;138500;2;1;86.0;86.0;0;;Not available;True;False;False;False;True;45.7;30
+Falagueira-Venda Nova, Lisboa;269900;2;1;85.0;113.0;0;;Not available;True;True;True;True;False;44.8;9
+Paços de Ferreira, Porto;250000;2;2;106.0;117.0;2;1.0;Not available;True;False;True;True;True;47.0;28
+São Félix da Marinha, Porto;310000;3;2;95.0;115.0;1;1.0;Not available;True;False;True;True;True;47.0;2
+Marvila - Lisboa, Lisboa;217500;3;2;73.0;77.0;0;;Not available;True;True;True;True;False;44.8;11
+Pedroso e Seixezelo, Porto;249500;2;2;110.0;126.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;9
+Avanca, Estarreja;173500;4;2;169.0;169.0;1;0.0;Not available;False;False;False;False;False;48.0;23
+São Gonçalo de Lagos, Faro;337500;2;2;92.0;149.0;2;2.0;Not available;True;False;False;False;True;45.7;13
+Sines, Setúbal;195000;2;2;89.0;89.0;1;0.0;Not available;True;False;True;True;False;46.6;26
+Costa da Caparica, Almada;268000;1;1;43.0;47.0;0;;Not available;True;False;True;False;True;46.3;0
+Estoril, Cascais;255000;1;1;62.0;62.0;1;;Not available;True;False;False;False;True;46.9;4
+Torres do Restelo, Lisboa;695000;3;3;140.0;175.0;2;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;7
+Praça Rainha D. Amélia, Porto;178900;1;1;36.0;45.0;0;;Not available;True;False;True;True;True;47.0;6
+Praça Rainha D. Amélia, Porto;162300;1;1;34.0;43.0;0;;Not available;True;False;True;True;True;47.0;6
+Praça Rainha D. Amélia, Porto;165700;1;1;34.0;43.0;0;;Not available;True;False;True;True;True;47.0;6
+Praça Rainha D. Amélia, Porto;158900;1;1;34.0;43.0;0;;Not available;True;False;True;True;True;47.0;6
+Praça Rainha D. Amélia, Porto;197200;1;1;34.0;71.0;0;;Not available;True;False;True;True;True;47.0;6
+Praça Rainha D. Amélia, Porto;572800;2;2;162.0;215.0;0;;Not available;True;False;True;True;True;47.0;6
+Olivais Sul, Lisboa;315000;3;2;75.0;75.0;0;;Not available;True;True;True;True;False;44.8;16
+Gulpilhares e Valadares, Porto;235000;2;2;101.0;101.0;2;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Linda-a-Velha, Oeiras;167500;3;2;97.0;108.0;0;3.0;Not available;False;False;False;False;False;46.5;4
+Av. Novas/ Av. República, Lisboa;587000;5;2;127.0;130.0;0;;Not available;True;True;True;True;False;44.8;13
+Fânzeres - Regadas, Gondomar;225000;3;3;106.0;106.0;1;4.0;Not available;True;False;True;False;False;47.1;12
+Porto, Porto;220000;3;2;106.0;106.0;0;;Not available;True;False;True;True;True;47.0;3
+Algés, Oeiras;255000;1;1;50.0;51.0;0;;Not available;True;False;False;False;False;46.5;5
+Senhora da Hora, Matosinhos;195000;0;2;40.0;60.0;1;4.0;Energy Performance Certificate;False;False;True;False;False;47.5;4
+Malveira, Mafra;295000;3;2;152.0;186.0;2;;Not available;True;False;False;False;False;43.8;20
+Hospital, Santarém;255000;4;2;126.0;126.0;0;;Not available;True;False;False;False;False;48.3;57
+Loures, Loures;420000;2;2;100.0;100.0;1;7.0;Energy Performance Certificate;False;False;False;False;False;44.6;18
+S.Cosme, Gondomar;153500;1;1;71.0;95.0;1;2.0;Not available;True;False;True;False;False;47.1;12
+Costa da Caparica, Setúbal;270000;1;1;55.0;55.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;46.6;0
+Alfragide, Lisboa;258000;2;1;77.0;83.0;1;1.0;Not available;True;True;True;True;False;44.8;7
+Jardins do Cristo Rei, Loures;885000;4;3;145.0;219.0;2;2.0;Energy Performance Certificate;False;False;False;False;False;44.6;18
+Boavista, Porto;570000;5;3;183.0;188.0;2;6.0;Not available;True;False;True;True;True;47.0;4
+Forte da Casa, Vila Franca de Xira;269000;3;2;94.0;94.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;44.1;28
+Leça do Balio, Matosinhos;367000;4;3;151.0;151.0;2;2.0;Energy Performance Certificate;False;False;True;False;False;47.5;7
+Odivelas Centro, Odivelas;210000;3;1;80.0;82.0;0;3.0;Not available;True;False;False;False;False;43.7;14
+São Mamede de Infesta e Senhora da Hora, Porto;170000;2;2;77.0;92.0;0;;Not available;True;False;True;True;True;47.0;4
+Grândola e Santa Margarida da Serra, Setúbal;350000;4;2;117.0;117.0;0;;Not available;True;False;True;True;False;46.6;56
+Rinchoa, Sintra;200000;2;1;90.0;112.0;0;;Not available;True;False;False;False;False;43.7;10
+Damaia de Cima, Amadora;220000;2;1;80.0;85.0;0;;Not available;True;False;True;True;False;44.1;8
+Águas Livres, Lisboa;210000;2;1;66.0;71.0;0;;Not available;True;True;True;True;False;44.8;8
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;150000;3;2;75.0;75.0;1;2.0;Not available;True;False;False;False;False;52.8;6479
+Ranhados, Viseu;130000;2;1;88.0;88.0;0;;Not available;True;False;False;False;False;46.9;74
+Pombal, Leiria;185000;2;2;102.0;127.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.4;35
+Venteira, Amadora;189000;1;1;45.0;55.0;0;;Not available;True;False;True;True;False;44.1;8
+Póvoa de Santa Iria e Forte Da Casa, Vila Franca de Xira;319990;3;2;162.0;162.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;44.1;26
+Pombal, Leiria;260000;3;2;130.0;160.0;2;1.0;Not available;False;False;False;False;False;46.4;35
+Quelfes, Faro;250000;2;2;81.0;95.0;1;3.0;Energy Performance Certificate;False;False;False;False;True;45.7;63
+Pombal, Leiria;305000;3;2;131.0;157.0;2;1.0;Energy Performance Certificate;False;False;False;False;False;46.4;35
+Corroios Centro, Seixal;175000;1;1;61.0;66.0;0;;Not available;True;False;False;False;False;44.9;11
+Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Lisboa;598000;3;2;135.0;171.0;2;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;3
+Santa Marinha e São Pedro da Afurada, Porto;355000;2;2;86.0;107.0;1;4.0;Not available;True;False;True;True;True;47.0;4
+Odivelas, Lisboa;460000;3;2;102.0;112.0;2;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;14
+Castelos, Porto;257000;3;2;80.0;88.0;0;2.0;Not available;True;False;True;True;True;47.0;3
+Cedofeita, Porto;188000;0;1;35.0;35.0;0;2.0;Not available;True;False;True;True;True;47.0;5
+Vilamoura, Loulé;10800;1;1;50.0;50.0;0;;Not available;True;False;False;False;False;46.9;37
+Alfornelos, Amadora;245000;2;1;68.0;;0;;Not available;True;False;True;True;False;44.1;10
+Mafamude e Vilar do Paraíso, Vila Nova de Gaia;250000;3;3;173.0;218.0;2;3.0;Not available;True;False;True;True;False;46.8;6
+Estômbar e Parchal, Faro;189000;2;1;77.0;113.0;0;;Not available;True;False;False;False;True;45.7;5
+Júlio Dinis, Porto;325000;2;1;80.0;122.0;1;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Corroios, Seixal;167000;3;1;95.0;95.0;0;;Not available;True;False;False;False;False;44.9;7
+Santa Maria Maior, Viana do Castelo;213500;0;1;64.0;64.0;0;;Not available;True;False;False;False;True;48.8;1
+Celas, Coimbra;260000;3;2;;;0;;Not available;True;False;False;True;False;48.3;40
+Telheiras, Lisboa;390000;2;1;99.0;110.0;1;;Not available;True;True;True;True;False;44.8;12
+Montijo e Afonsoeiro, Setúbal;190000;3;2;84.0;99.0;0;;Not available;True;False;True;True;False;42.6;25
+Arca d´ Água, Porto;210000;1;1;73.0;76.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;5
+Centro Histórico, Santarém;295000;3;2;203.0;203.0;0;;Not available;True;False;False;False;False;48.3;56
+Celas, Coimbra;250000;2;1;53.0;58.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;48.3;40
+Vilamoura, Loulé;310000;1;1;57.0;74.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;37
+Braga (São Vítor), Braga;210000;2;1;69.0;69.0;1;1.0;Energy Performance Certificate;False;False;False;True;False;44.4;31
+Amadora, Amadora;189000;2;1;81.0;91.0;0;;Not available;True;False;True;True;False;44.1;8
+Alto de Algés, Oeiras;985000;3;2;135.0;220.0;2;0.0;Energy Performance Certificate;False;False;False;False;False;46.5;5
+Igreja da Memória, Lisboa;360000;3;2;64.0;94.0;0;0.0;Not available;True;True;True;True;False;44.8;7
+Metro do Heroísmo, Porto;528000;2;2;68.0;279.0;2;3.0;Not available;True;False;True;True;True;47.0;6
+Metro do Heroísmo, Porto;416800;2;2;74.0;123.0;2;3.0;Not available;True;False;True;True;True;47.0;6
+Metro do Heroísmo, Porto;311600;1;1;68.0;88.0;1;3.0;Not available;True;False;True;True;True;47.0;6
+Metro do Heroísmo, Porto;253900;1;1;53.0;74.0;1;3.0;Not available;True;False;True;True;True;47.0;6
+Metro do Heroísmo, Porto;302000;1;1;57.0;90.0;1;2.0;Not available;True;False;True;True;True;47.0;6
+Tavira, Tavira;295000;2;1;70.0;85.0;0;;Not available;True;False;False;False;True;51.2;79
+Espinho, Aveiro;225000;2;2;90.0;90.0;1;1.0;Not available;True;False;False;False;True;51.1;0
+Nossa Senhora das Misericórdias, Santarém;148000;3;2;125.0;139.0;2;0.0;Energy Performance Certificate;False;False;False;False;False;48.3;64
+Alto das Vinhas Grandes, Montijo;195500;2;1;85.0;92.0;0;;Not available;True;False;False;False;False;42.6;25
+Montijo e Afonsoeiro, Setúbal;165000;2;1;66.0;80.0;0;;Not available;True;False;True;True;False;42.6;25
+Alvor, Portimão;215000;1;1;55.0;61.0;1;0.0;Not available;True;False;False;False;True;45.5;5
+Quarteira, Loulé;347500;3;2;109.0;145.0;1;2.0;Not available;False;False;False;False;False;46.9;38
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;154900;2;1;60.0;65.0;0;;Not available;True;False;False;False;False;52.8;6479
+Tarouca e Dálvares, Viseu;120000;3;3;123.0;137.0;0;;Not available;True;False;False;False;False;49.4;74
+Alfena, Porto;207500;3;3;105.0;148.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;15
+Viso Sul, Viseu;315000;4;3;187.0;220.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;74
+Viso Sul, Viseu;315000;4;3;187.0;220.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;74
+Abraveses, Viseu;135000;3;2;76.0;100.0;0;;Not available;True;False;False;False;False;46.9;70
+Viso Sul, Viseu;235000;3;2;116.0;175.0;1;2.0;Not available;True;False;False;False;False;46.9;74
+Olivais, Lisboa;589000;2;2;76.0;76.0;1;10.0;Energy Performance Certificate;False;True;True;True;False;44.8;16
+Viso Sul, Viseu;235000;3;2;116.0;148.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;74
+Ermesinde, Valongo;295000;2;2;120.0;140.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;45.1;12
+Viso Sul, Viseu;230000;3;2;116.0;162.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;74
+Viso Sul, Viseu;230000;3;2;116.0;162.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;74
+Paredes, Porto;286000;3;2;133.0;133.0;2;2.0;Not available;True;False;True;True;True;44.3;21
+Olaias, Lisboa;800000;3;2;190.0;190.0;5;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;14
+Mãe de Deus, Santa Cruz;210000;2;2;83.0;105.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;43.7;
+Torres Novas (Santa Maria, Salvador e Santiago), Santarém;170000;3;2;124.0;137.0;2;0.0;Not available;True;False;False;False;False;50.2;72
+Esmoriz, Aveiro;155000;2;1;80.0;118.0;1;2.0;Not available;False;False;False;False;True;45.5;5
+Campolide, Lisboa;395000;2;1;75.0;82.0;0;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;10
+Costa, Braga;350000;4;3;134.0;147.0;4;4.0;Energy Performance Certificate;False;False;False;True;False;44.4;29
+Parque das Nações - Expo Norte, Lisboa;465000;2;2;79.0;79.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;19
+Pinheiro Manso, Porto;636000;4;3;174.0;203.0;2;;Not available;True;False;True;True;True;47.0;2
+Amorosa, Viana do Castelo;125000;1;1;64.0;71.0;0;;Not available;True;False;False;False;True;48.8;5
+Boavista, Porto;199000;1;1;57.0;57.0;0;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Lisboa;890000;3;2;110.0;150.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;1
+Damaia de Cima, Amadora;295000;4;2;107.0;112.0;0;;Not available;True;False;True;True;False;44.1;8
+Olivais, Lisboa;415000;4;1;110.0;110.0;0;;Not available;True;True;True;True;False;44.8;16
+Aldeia de Joanes, Fundão;87500;3;1;120.0;120.0;0;3.0;Not available;True;False;False;False;False;53.6;115
+Quinta das Lágrimas / Quinta da Varzea, Coimbra;393000;3;3;119.0;136.0;2;2.0;Not available;True;False;False;True;False;48.3;38
+Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu), Coimbra;185000;4;2;70.0;70.0;0;;Not available;True;False;False;True;False;48.3;40
+Almada, Cova da Piedade, Pragal e Cacilhas, Setúbal;195000;2;1;78.0;78.0;0;;Not available;True;False;True;True;False;46.3;7
+Algueirão-Mem Martins, Lisboa;199000;1;2;;;0;;Not available;True;True;True;True;False;44.8;11
+Alhos Vedros / Agrup. Escolas, Moita;225000;2;1;95.0;152.0;1;0.0;Not available;True;False;False;False;False;45.0;17
+Alvor, Portimão;185000;1;1;54.0;59.0;0;;Not available;True;False;False;False;True;45.5;5
+Rio Tinto, Porto;215000;2;2;118.0;118.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;9
+São João da Madeira, Aveiro;169000;2;2;112.0;112.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;47.0;17
+Portimão Centro, Portimão;107000;0;1;31.0;35.0;0;;Not available;True;False;False;False;True;45.5;2
+Matadouro, Figueira da Foz;189000;2;2;92.0;92.0;0;;Not available;True;False;False;False;True;50.9;3
+Cavalinha, Olhão;147500;2;1;55.0;69.0;0;;Not available;True;False;False;False;True;46.2;62
+Cristelos, Boim e Ordem, Porto;165000;3;2;120.0;142.0;1;1.0;Not available;True;False;True;True;True;47.0;35
+Arroios, Lisboa;375000;4;1;81.0;90.0;0;;Not available;True;True;True;True;False;44.8;12
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;140000;3;2;100.0;100.0;0;;Not available;True;False;False;False;False;52.8;6479
+Macieira de Cambra, Aveiro;145000;3;2;130.0;130.0;1;1.0;Not available;True;False;False;False;True;45.5;27
+Rio Tinto - Forno, Gondomar;190000;3;2;85.0;107.0;1;1.0;Not available;True;False;True;False;False;47.1;9
+Santo António dos Olivais, Coimbra;375000;3;2;100.0;120.0;2;0.0;Not available;True;False;False;True;False;48.3;41
+ERA Palmela Azeitao, Moita;120000;1;1;49.0;55.0;0;;Not available;True;False;False;False;False;45.0;29
+Almada, Almada;185000;3;1;73.0;88.0;0;;Not available;True;False;True;False;False;46.3;6
+Viseu, Viseu;135000;1;1;50.0;60.0;0;;Not available;True;False;False;False;False;46.9;72
+Abraveses, Viseu;175000;3;2;98.0;122.0;0;;Not available;True;False;False;False;False;46.9;70
+Prelada, Porto;469000;3;3;142.0;186.0;2;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+Minde, Santarém;125000;2;1;103.0;115.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;48.3;62
+Porto, Porto;260000;1;1;50.0;50.0;0;;Not available;True;False;True;True;True;47.0;3
+Bairro da Coopalme, Sintra;157500;2;1;56.0;71.0;0;;Not available;True;False;False;False;False;43.7;10
+Alto do Seixalinho / Escavadeira, Barreiro;179000;2;1;93.0;93.0;0;;Not available;True;False;False;False;False;47.0;15
+Montijo e Afonsoeiro, Setúbal;135000;2;1;66.0;80.0;0;;Not available;True;False;True;True;False;42.6;25
+Laranjeiro, Almada;150000;2;1;69.0;76.0;0;;Not available;True;False;True;False;False;46.3;6
+Albufeira e Olhos de Água, Faro;169500;1;1;56.0;63.0;0;1.0;Not available;True;False;False;False;True;44.4;27
+Arca d´ Água, Porto;240000;1;1;42.0;42.0;1;0.0;Energy Performance Certificate;False;False;True;True;True;47.0;5
+Aires, Palmela;319000;4;2;140.0;138.0;4;0.0;Not available;True;False;False;False;False;45.3;31
+St.º António da Caparica, Almada;260000;3;2;81.0;81.0;0;;Not available;True;False;True;False;False;46.3;0
+Olhão Norte, Olhão;195000;3;2;96.0;107.0;0;;Not available;True;False;False;False;True;46.2;62
+Vau, Leiria;635000;3;3;;;0;;Not available;True;False;False;False;False;46.4;46
+Sines, Setúbal;310000;3;2;106.0;106.0;2;1.0;Not available;True;False;True;True;False;46.6;26
+Campo de Ourique, Lisboa;429000;2;2;88.0;88.0;0;;Not available;True;True;True;True;False;44.8;10
+Loulé (São Clemente), Faro;360000;4;3;102.0;116.0;0;;Not available;True;False;False;False;True;45.7;48
+Fernão Magalhães, Porto;170000;1;1;67.0;72.0;0;;Not available;True;False;True;True;True;47.0;7
+Hospital de São João, Matosinhos;197500;1;1;51.0;64.0;1;4.0;Energy Performance Certificate;False;False;True;False;False;47.5;7
+Glória e Vera Cruz, Aveiro;300000;2;2;105.0;106.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;45.5;39
+Santo António dos Olivais, Coimbra;340000;2;2;72.0;86.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;48.3;41
+Santo António dos Olivais, Coimbra;330000;2;2;72.0;86.0;1;1.0;Energy Performance Certificate;False;False;False;True;False;48.3;41
+Santo António dos Olivais, Coimbra;230000;1;1;55.0;66.0;1;1.0;Energy Performance Certificate;False;False;False;True;False;48.3;41
+Santo António dos Olivais, Coimbra;320000;2;2;72.0;86.0;1;0.0;Not available;True;False;False;True;False;48.3;41
+Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail, Aveiro;174000;3;3;93.0;111.0;3;2.0;Energy Performance Certificate;False;False;False;False;True;48.5;23
+Horta das Figueiras, Évora;225000;2;1;85.0;85.0;2;2.0;Not available;True;False;False;False;False;46.9;115
+Bessa Leite, Porto;550000;1;2;99.0;143.0;1;0.0;Energy Performance Certificate;False;False;True;True;True;47.0;2
+Sátão, Sátão;35000;3;1;102.0;122.0;0;;Not available;True;False;False;False;False;52.1;81
+Bonfim, Porto;299000;2;2;85.0;113.0;2;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Costa de Caparica, Almada;459000;1;1;70.0;80.0;0;;Not available;True;False;True;False;False;46.3;0
+Vila Nova de Gaia, Vila Nova de Gaia;247500;2;2;101.0;251.0;2;0.0;Not available;True;False;True;True;False;46.8;6
+Povos, Vila Franca de Xira;150000;3;2;100.0;142.0;1;0.0;Not available;True;False;False;False;False;44.1;40
+Esmoriz II - Pinhal D'Aberta, Ovar;235000;2;2;125.0;125.0;1;0.0;Not available;True;False;False;False;False;47.1;5
+Santa Marinha e São Pedro da Afurada, Porto;185000;0;1;34.0;40.0;1;3.0;Not available;True;False;True;True;True;47.0;4
+Barreiro, Barreiro;140000;2;1;66.0;82.0;0;;Not available;True;False;False;False;False;47.0;13
+Ramalde, Porto;320000;2;2;107.0;140.0;2;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Aver-o-Mar, Póvoa de Varzim;325000;4;2;160.0;250.0;1;4.0;Energy Performance Certificate;False;False;True;False;False;45.8;14
+Lagos, Lagos;450000;3;2;124.0;189.0;2;0.0;Energy Performance Certificate;False;False;False;False;True;48.7;3609
+Falagueira-Venda Nova, Lisboa;242000;2;1;;;0;;Not available;True;True;True;True;False;44.8;9
+Mina de Água, Lisboa;249900;3;1;;;0;;Not available;True;True;True;True;False;44.8;10
+Alhos Vedros, Setúbal;203000;3;2;98.0;110.0;1;1.0;Not available;True;False;True;True;False;46.6;19
+Massamá Norte, Sintra;429000;4;3;128.0;148.0;2;;Not available;True;False;False;False;False;43.7;7
+São Pedro, Santarém;120000;2;1;90.0;90.0;0;;Not available;True;False;False;False;False;48.3;57
+Casal de Cambra, Lisboa;155000;3;2;73.0;90.0;0;;Not available;True;True;True;True;False;44.8;12
+Matosinhos Centro, Matosinhos;475000;2;2;101.0;101.0;1;4.0;Not available;True;False;True;False;False;47.5;4
+Odivelas, Lisboa;219900;2;1;70.0;80.0;0;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;14
+Elisio de Moura, Coimbra;250000;3;2;112.0;149.0;1;0.0;Energy Performance Certificate;False;False;False;True;False;48.3;40
+Monte Gordo, Vila Real de Santo António;449000;5;4;150.0;185.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;48.5;96
+Monte Gordo, Vila Real de Santo António;399000;5;4;150.0;185.0;0;;Not available;True;False;False;False;False;48.5;96
+Aguçadoura e Navais, Porto;198000;3;2;71.0;75.0;0;;Not available;True;False;True;True;True;47.0;9
+Centro, Viseu;230000;2;1;95.0;108.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Mundão, Viseu;72500;0;1;;;0;;Not available;True;False;False;False;False;46.9;73
+Centro, Viseu;215000;1;1;67.0;73.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Centro, Viseu;215000;1;1;61.0;71.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Centro, Viseu;220000;2;1;78.0;85.0;1;2.0;Not available;True;False;False;False;False;46.9;72
+Viseu, Viseu;200000;1;2;55.0;68.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Parque das Nações - Expo Norte, Lisboa;710000;3;2;126.0;126.0;2;5.0;Not available;False;True;True;True;False;44.8;19
+Olhão Norte, Olhão;275000;3;2;105.0;120.0;1;3.0;Energy Performance Certificate;False;False;False;False;True;46.2;62
+Oliveira, São Paio e São Sebastião, Braga;320000;5;4;206.0;249.0;2;;Not available;True;False;False;True;False;44.4;41
+Arcozelo, Ponte de Lima;193000;2;3;108.0;115.0;1;0.0;Not available;True;False;False;False;False;48.2;23
+Monte Abraão, Sintra;195000;3;2;90.0;110.0;0;;Not available;True;False;False;False;False;43.7;7
+Sever do Vouga, Aveiro;135000;3;2;125.0;131.0;1;1.0;Not available;True;False;False;False;True;45.5;37
+Venda do Pinheiro, Mafra;234000;2;1;108.0;116.0;0;;Not available;True;False;False;False;False;43.8;22
+Centro, Viseu;185000;1;1;46.0;53.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;180000;1;1;52.0;61.0;1;0.0;Not available;False;False;False;False;False;48.5;79
+Queluz, Sintra;199000;2;1;67.0;95.0;0;;Not available;True;False;True;False;False;43.7;7
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;185000;1;1;55.0;65.0;1;0.0;Not available;False;False;False;False;False;48.5;79
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;177500;1;1;53.0;62.0;1;0.0;Not available;False;False;False;False;False;48.5;79
+Centro, Viseu;185000;1;1;62.0;68.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Maia, Maia;197500;2;1;88.0;88.0;0;;Not available;True;False;False;False;False;45.5;10340
+Darque, Viana do Castelo;155000;2;1;76.0;106.0;0;;Not available;True;False;False;False;True;48.8;0
+Centro, Viseu;180000;0;1;40.0;46.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Darque, Viana do Castelo;150000;2;1;83.0;83.0;0;;Not available;True;False;False;False;True;48.8;0
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;177500;1;1;53.0;62.0;1;0.0;Not available;False;False;False;False;False;48.5;79
+Chiado, Lisboa;699000;1;2;85.0;99.0;0;0.0;Energy Performance Certificate;False;True;True;True;False;44.8;10
+Arca d´ Água, Porto;220000;3;2;90.0;95.0;0;;Not available;True;False;True;True;True;47.0;5
+Mafamude e Vilar do Paraíso, Porto;328500;3;3;145.0;145.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Albufeira - Montechoro, Albufeira;159000;1;1;70.0;77.0;0;;Not available;True;False;False;False;True;44.4;27
+Centro, Viseu;185000;1;1;45.0;49.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Guarda, Guarda;165000;2;2;;;0;;Not available;True;False;False;False;False;49.6;160
+Águas Santas, Porto;518700;3;3;123.0;247.0;2;4.0;Not available;True;False;True;True;True;47.0;10
+Mafamude e Vilar do Paraíso, Porto;125000;0;1;30.0;30.0;1;0.0;Not available;False;False;True;True;True;47.0;6
+Águas Santas, Porto;525000;3;3;125.0;250.0;2;4.0;Not available;True;False;True;True;True;47.0;10
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;175000;1;1;52.0;61.0;1;1.0;Not available;False;False;False;False;False;48.5;79
+São Cosme Zona 7, Gondomar;194000;3;2;;;0;;Not available;True;False;True;False;False;47.1;12
+Guarda, Guarda;150000;2;2;;;0;;Not available;True;False;False;False;False;49.6;160
+Águas Santas, Porto;395100;2;2;120.0;152.0;2;3.0;Not available;True;False;True;True;True;47.0;10
+Oliveira do Douro, Porto;231000;2;1;;;0;;Not available;True;False;True;True;True;47.0;7
+Águas Santas, Porto;395100;3;3;120.0;152.0;2;3.0;Not available;True;False;True;True;True;47.0;10
+Águas Santas, Porto;395100;3;3;120.0;155.0;2;3.0;Not available;True;False;True;True;True;47.0;10
+Oliveira do Douro, Porto;245500;2;1;;;0;;Not available;True;False;True;True;True;47.0;7
+Águas Santas, Porto;390100;3;3;120.0;152.0;2;2.0;Not available;True;False;True;True;True;47.0;10
+Centro, Viseu;180000;0;1;36.0;45.0;1;0.0;Not available;True;False;False;False;False;46.9;72
+Águas Santas, Porto;390100;3;3;120.0;153.0;2;2.0;Not available;True;False;True;True;True;47.0;10
+Canidelo, Porto;195000;2;1;63.0;82.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Águas Santas, Porto;390100;3;3;120.0;153.0;2;2.0;Not available;True;False;True;True;True;47.0;10
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;183000;1;1;53.0;62.0;1;1.0;Not available;False;False;False;False;False;48.5;79
+São Marcos - Cacém, Sintra;199000;2;1;78.0;80.0;0;;Not available;True;False;False;False;False;43.7;6
+Alcochete, Setúbal;149500;2;1;66.0;73.0;0;;Not available;True;False;True;True;False;44.8;26
+Soeiros / Torres de Lisboa, Lisboa;435000;3;2;116.0;116.0;1;9.0;Energy Performance Certificate;False;True;True;True;False;44.8;11
+Águas Santas, Porto;390100;3;3;120.0;158.0;2;2.0;Not available;True;False;True;True;True;47.0;10
+Ermesinde, Porto;165000;2;1;64.0;80.0;0;;Not available;True;False;True;True;True;47.0;12
+Águas Santas, Porto;385100;3;3;120.0;143.0;1;1.0;Not available;True;False;True;True;True;47.0;10
+Águas Santas, Porto;385100;3;3;120.0;139.0;1;1.0;Not available;True;False;True;True;True;47.0;10
+Águas Santas, Porto;385100;3;3;120.0;142.0;1;1.0;Not available;True;False;True;True;True;47.0;10
+Águas Santas, Porto;385100;3;3;120.0;142.0;1;1.0;Not available;True;False;True;True;True;47.0;10
+Santa Maria, São Pedro e Matacães, Lisboa;220000;2;1;89.0;104.0;0;;Not available;True;True;True;True;False;44.8;26
+Águas Santas, Porto;380100;3;3;120.0;138.0;1;0.0;Not available;True;False;True;True;True;47.0;10
+Buraca, Amadora;270000;3;2;86.0;96.0;0;;Not available;True;False;True;True;False;44.1;8
+Águas Santas, Porto;463800;3;3;120.0;218.0;2;0.0;Not available;True;False;True;True;True;47.0;10
+Águas Santas, Porto;374100;2;2;92.0;169.0;1;0.0;Not available;True;False;True;True;True;47.0;10
+Águas Santas, Porto;454500;3;3;120.0;208.0;2;0.0;Not available;True;False;True;True;True;47.0;10
+Águas Santas, Porto;380100;3;3;120.0;139.0;1;0.0;Not available;True;False;True;True;True;47.0;10
+Moscavide, Loures;299000;0;1;44.0;44.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;44.6;18
+Seixal, Arrentela e Aldeia de Paio Pires, Setúbal;229900;4;2;93.0;110.0;0;1.0;Energy Performance Certificate;False;False;True;True;False;44.9;11
+Costa da Caparica, Setúbal;279000;2;1;85.0;86.0;0;;Not available;True;False;True;True;True;46.6;0
+Amadora / Encosta do Sol, Amadora;254000;2;1;76.0;76.0;0;;Not available;True;False;True;True;False;44.1;10
+Frazão Arreigada, Porto;155000;3;2;90.0;102.0;1;2.0;Not available;True;False;True;True;True;47.0;25
+Cascais e Estoril, Lisboa;370000;3;2;98.0;98.0;0;;Not available;True;True;True;True;True;46.9;0
+Damaia de Cima, Amadora;330000;3;2;107.0;110.0;1;1.0;Energy Performance Certificate;False;False;True;True;False;44.1;8
+Fátima, Santarém;220000;2;2;90.0;98.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;48.3;64
+Moita, Setúbal;146000;2;2;80.0;89.0;0;;Not available;True;False;True;True;False;45.0;21
+Ramada e Caneças, Lisboa;289900;3;2;125.0;136.0;1;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;14
+Canidelo, Porto;185000;2;2;88.0;105.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Árvore, Vila do Conde;179000;1;1;57.0;57.0;1;0.0;Not available;True;False;False;False;False;45.7;19
+Laranjeiro, Almada;245000;3;2;61.0;72.0;0;;Not available;True;False;True;False;False;46.3;6
+Ajuda, Lisboa;179000;1;1;25.0;30.0;0;;Not available;True;True;True;True;False;44.8;8
+SJM 4, São João da Madeira;190000;2;2;75.0;82.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;47.0;17
+Santos, Lisboa, Lisboa;649980;5;1;120.0;120.0;0;;Not available;True;True;True;True;False;44.8;9
+Vila Real de Santo António, Vila Real de Santo António;157500;1;1;45.0;54.0;0;;Not available;True;False;False;False;False;48.5;99
+Cascais e Estoril, Lisboa;520000;3;2;98.0;99.0;0;;Not available;True;True;True;True;True;46.9;0
+Centro, Aveiro;481280;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;388800;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;389280;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;404640;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Charneca de Caparica e Sobreda, Setúbal;365000;2;2;100.0;86.0;0;1.0;Not available;True;False;True;True;False;46.6;3
+Centro, Aveiro;465120;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Cruz de Pau, Seixal;149900;2;2;85.0;85.0;0;;Not available;True;False;False;False;False;44.9;11
+Centro de Carnaxide, Oeiras;285000;2;1;90.0;96.0;0;;Not available;True;False;False;False;False;46.5;5
+Centro, Aveiro;500640;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;351360;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;486280;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;394280;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;409640;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;470120;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto;275000;1;1;34.0;34.0;1;1.0;Not available;True;False;True;True;True;47.0;5
+Bairro Norton de Matos, Coimbra;189000;2;1;64.0;110.0;0;;Not available;True;False;False;True;False;48.3;40
+Centro, Aveiro;475400;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Chainça, Abrantes;137500;3;2;103.0;103.0;0;;Not available;True;False;False;False;False;53.4;95
+Armação de Pêra, Silves;240000;2;1;43.0;57.0;1;3.0;Energy Performance Certificate;False;False;False;False;True;47.1;15
+Centro, Aveiro;491280;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;398800;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;399280;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Vilamoura, Loulé;20600;1;1;57.0;74.0;0;;Not available;True;False;False;False;False;46.9;37
+Centro, Aveiro;414640;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;475120;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;498160;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;496280;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;403800;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;404280;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;419640;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Vilamoura, Loulé;20600;1;1;57.0;74.0;0;3.0;Not available;True;False;False;False;False;46.9;37
+Centro, Aveiro;480120;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Aos Arneiros, Lisboa;450000;4;1;100.0;110.0;0;;Not available;True;True;True;True;False;44.8;27
+Centro, Aveiro;496120;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Monte Abraão, Sintra;150000;2;1;61.0;71.0;0;;Not available;True;False;False;False;False;43.7;7
+Centro, Aveiro;501280;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Aos Arneiros, Lisboa;450000;4;1;100.0;110.0;0;;Not available;True;True;True;True;False;44.8;27
+Centro, Aveiro;408800;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Lordelo, Porto;185000;2;2;93.0;110.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;23
+Centro, Aveiro;409280;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Cova da Piedade, Almada;265000;3;2;91.0;101.0;0;;Not available;True;False;True;False;False;46.3;7
+Centro, Aveiro;485120;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;506280;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Aos Arneiros, Lisboa;260000;1;1;48.0;52.0;0;;Not available;True;True;True;True;False;44.8;27
+Centro, Aveiro;413800;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Pêra, Silves;187000;2;1;59.0;75.0;0;1.0;Not available;True;False;False;False;False;47.1;18
+Olaias, Lisboa;245000;2;1;66.0;77.0;0;;Not available;True;True;True;True;False;44.8;14
+Centro, Aveiro;449640;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Agualva e Mira-Sintra, Lisboa;220000;4;2;120.0;130.0;0;;Not available;True;True;True;True;False;51.2;8
+Centro, Aveiro;586760;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;365000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;300000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;375000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;305000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;310000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Braga (São José de São Lázaro e São João do Souto), Braga;170000;3;2;95.0;110.0;1;0.0;Not available;True;False;False;True;False;44.4;29
+Centro, Aveiro;310000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;380000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;315000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;320000;4;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Cova da Piedade, Almada;235000;3;1;70.0;82.0;0;;Not available;True;False;True;False;False;46.3;7
+Mem Martins, Sintra;185000;2;1;72.0;82.0;0;;Not available;True;False;False;False;False;43.7;11
+Queluz e Belas, Lisboa;385000;2;2;94.0;159.0;3;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;7
+Costa da Caparica, Setúbal;279900;2;2;76.0;76.0;0;;Not available;True;False;True;True;True;46.6;0
+Vilamoura, Loulé;240000;1;1;63.0;70.0;1;2.0;Not available;True;False;False;False;False;46.9;37
+Centro, Aveiro;435000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Campo de Ourique, Lisboa;840000;3;2;100.0;132.0;1;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;10
+Tavira, Tavira;169000;1;1;54.0;61.0;0;;Not available;True;False;False;False;True;51.2;79
+Senhora da Hora, Matosinhos;322500;3;2;118.0;135.0;1;1.0;Energy Performance Certificate;False;False;True;False;False;47.5;4
+Costa da Caparica, Setúbal;268000;1;1;46.0;50.0;0;;Not available;True;False;True;True;True;46.6;0
+Vilamoura, Loulé;225000;1;1;61.0;61.0;0;;Not available;True;False;False;False;False;46.9;37
+Trafaria, Almada;260000;2;1;58.0;63.0;0;;Not available;True;False;True;False;False;46.3;2
+Pontinha e Famões, Lisboa;139900;2;1;;;0;;Not available;True;True;True;True;False;44.8;12
+Praia da Rocha, Portimão;180000;1;1;43.0;48.0;0;;Not available;True;False;False;False;True;45.5;0
+Santa Marinha e São Pedro da Afurada, Porto;530000;3;3;128.0;158.0;2;;Not available;False;False;True;True;True;47.0;4
+Santa Marta do Pinhal, Seixal;200000;2;1;91.0;91.0;0;;Not available;True;False;False;False;False;44.9;11
+Seixal, Arrentela e Aldeia de Paio Pires, Setúbal;190000;2;1;65.0;65.0;0;;Not available;True;False;True;True;False;44.9;11
+Costa Cabral, Porto;266500;3;2;88.0;98.0;0;;Not available;True;False;True;True;True;47.0;7
+Centro, Aveiro;365000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Santa Apolónia, Bragança;138000;4;2;119.0;134.0;1;2.0;Not available;True;False;False;True;False;44.4;170
+Olivais Sul, Lisboa;268000;2;1;70.0;70.0;0;;Not available;True;True;True;True;False;44.8;16
+Vila Chã, Codal e Vila Cova de Perrinho, Aveiro;196000;3;2;143.0;143.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;45.5;24
+Centro, Aveiro;465000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Venda do Pinheiro, Mafra;220000;2;1;79.0;97.0;0;;Not available;True;False;False;False;False;43.8;22
+Canidelo, Vila Nova de Gaia;199000;2;2;120.0;128.0;1;1.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Centro, Aveiro;295000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Porto, Porto;770000;3;3;178.0;189.0;2;1.0;Not available;True;False;True;True;True;47.0;3
+Porto, Porto;700000;3;4;188.0;209.0;2;1.0;Not available;True;False;True;True;True;47.0;3
+Centro, Aveiro;475000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Porto, Porto;820000;4;5;232.0;330.0;3;0.0;Not available;True;False;True;True;True;47.0;3
+Viseu, Viseu;165000;1;1;56.0;103.0;1;2.0;Not available;True;False;False;False;False;46.9;72
+Centro, Aveiro;300000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Porto, Porto;600000;3;4;160.0;238.0;3;0.0;Not available;True;False;True;True;True;47.0;3
+Santa Marinha e São Pedro da Afurada, Porto;650000;3;4;134.0;154.0;2;8.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+Centro, Aveiro;340000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Praia, Póvoa de Varzim;285000;3;2;110.0;128.0;0;;Not available;True;False;True;False;False;45.8;14
+Centro, Aveiro;290000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Monte da Caparica, Almada;185000;2;1;90.0;115.0;1;0.0;Energy Performance Certificate;False;False;True;False;False;46.3;4
+Continente, Loulé;295000;3;3;101.0;101.0;0;;Not available;True;False;False;False;False;46.9;47
+Centro, Aveiro;320000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;495000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+ANSIÃO, Ansião;96000;1;1;53.0;60.0;1;1.0;Not available;True;False;False;False;False;53.4;47
+Centro, Aveiro;305000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Santo Tirso, Santo Tirso;215000;3;3;158.0;158.0;0;;Not available;True;False;False;False;False;49.5;27
+Rio Tinto, Porto;219000;3;3;125.0;159.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;9
+Celas, Coimbra;300000;4;2;108.0;135.0;1;0.0;Not available;True;False;False;True;False;48.3;40
+Paços de Ferreira, Porto;265000;3;2;144.0;190.0;2;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;28
+Centro, Aveiro;345000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Eiriz, Porto;175000;3;2;126.0;151.0;2;2.0;Not available;True;False;True;True;True;47.0;29
+Monte Gordo, Faro;195000;0;1;53.0;53.0;0;;Not available;True;False;False;False;True;45.7;96
+Centro, Aveiro;295000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Celas, Coimbra;150000;1;1;45.0;54.0;0;;Not available;True;False;False;True;False;48.3;40
+Boavista, Porto;730000;4;3;193.0;;0;;Not available;True;False;True;True;True;47.0;4
+Parque das Nações - Expo Norte, Lisboa;499900;2;2;77.0;77.0;1;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;19
+Centro, Aveiro;345000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;195000;3;2;128.0;128.0;2;1.0;Not available;True;False;False;False;False;52.8;6479
+Sítio de Sao Pedro/ Alto do Cano, Tavira;765000;3;2;103.0;119.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;51.2;77
+Centro, Aveiro;500000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Ermesinde, Porto;158000;2;2;79.0;96.0;1;3.0;Not available;True;False;True;True;True;47.0;12
+Aos Arneiros, Lisboa;375000;2;1;70.0;76.0;0;;Not available;True;True;True;True;False;44.8;27
+Aos Arneiros, Lisboa;375000;2;1;70.0;76.0;0;;Not available;True;True;True;True;False;44.8;27
+Massamá e Monte Abraão, Lisboa;322500;3;2;125.0;157.0;1;;Not available;True;True;True;True;False;44.8;6
+Almancil Centro, Loulé;330000;3;3;103.0;128.0;1;2.0;Not available;False;False;False;False;False;46.9;45
+Aeroporto, Maia;226750;2;2;96.0;96.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;45.5;9
+Centro, Aveiro;335000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Vila Nova de Milfontes, Beja;195000;1;1;70.0;70.0;0;;Not available;True;False;False;False;False;46.5;86
+Centro, Aveiro;385000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Apúlia, Esposende;215000;2;2;93.0;125.0;2;1.0;Not available;True;False;False;False;False;45.3;3
+Centro, Aveiro;325000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Sto. Ovídio, Vila Nova de Gaia;215000;2;2;81.0;101.0;1;1.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Marvila, Lisboa;365000;3;2;97.0;97.0;0;;Not available;True;True;True;True;False;44.8;15
+Olivais Sul, Lisboa;240000;2;1;55.0;55.0;0;;Not available;True;True;True;True;False;44.8;16
+Centro, Aveiro;350000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Fonte Nova, Lisboa;197000;1;1;36.0;39.0;0;0.0;Not available;True;True;True;True;False;44.8;10
+Abraveses, Viseu;160000;3;2;131.0;179.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;70
+Olivais Norte, Lisboa;320000;3;1;70.0;70.0;0;;Not available;True;True;True;True;False;44.8;17
+Olivais, Coimbra;220000;3;2;142.0;150.0;0;;Not available;True;False;False;True;False;48.3;40
+Santo Tirso, Santo Tirso;153000;3;2;101.0;101.0;1;1.0;Not available;True;False;False;False;False;49.5;27
+Oliveira do Douro, Porto;187500;3;2;101.0;122.0;1;1.0;Not available;True;False;True;True;True;47.0;7
+Eiras e São Paulo de Frades, Coimbra;215000;3;2;92.0;106.0;2;2.0;Energy Performance Certificate;False;False;False;True;False;48.3;40
+Conceição e Cabanas de Tavira, Faro;175000;0;1;34.0;34.0;1;1.0;Not available;True;False;False;False;True;45.7;82
+Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Lisboa;450000;3;2;98.0;119.0;1;0.0;Energy Performance Certificate;False;True;True;True;False;44.8;1
+Mafamude e Vilar do Paraíso, Porto;189000;3;2;112.0;133.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Pedra Mourinha, Portimão;270000;3;2;105.0;123.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;45.5;3
+Oliveira do Douro, Porto;165000;3;2;110.0;148.0;1;2.0;Not available;True;False;True;True;True;47.0;7
+Centro, Aveiro;520000;3;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;335000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Canidelo, Porto;240000;2;2;83.0;110.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Celas, Coimbra;240000;3;2;78.0;105.0;1;0.0;Not available;True;False;False;True;False;48.3;40
+Águas Santas, Porto;175000;3;2;100.0;118.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;10
+Santa Apolónia, Coimbra;250000;6;3;138.0;229.0;6;1.0;Not available;True;False;False;True;False;48.3;40
+Baleal, Peniche;395000;3;3;152.0;214.0;2;3.0;Energy Performance Certificate;False;False;False;False;True;47.9;5
+Centro, Aveiro;375000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;355000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Centro, Aveiro;335000;2;1;;;0;;Not available;True;False;False;False;True;45.5;40
+Cacém e São Marcos, Lisboa;249000;3;2;89.0;95.0;1;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;8
+Canidelo, Porto;265000;3;2;106.0;106.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Areia Branca, Lourinhã;792000;4;3;107.0;176.0;1;0.0;Not available;True;False;False;False;False;47.1;8
+Sé, Santa Maria e Meixedo, Bragança;230000;5;5;206.0;110.0;2;4.0;Not available;False;False;False;True;False;44.4;171
+À Av. Uruguai, Lisboa;338000;2;1;65.0;81.0;0;;Not available;True;True;True;True;False;44.8;10
+Vila Nova Caparica, Almada;289000;3;2;96.0;128.0;0;1.0;Energy Performance Certificate;False;False;True;False;False;46.3;2
+Garajau, Santa Cruz;183000;1;1;68.0;82.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;43.7;8950
+Moreira, Porto;198900;1;2;56.0;59.0;1;;Not available;True;False;True;True;True;47.0;10
+Santa Marinha e São Pedro da Afurada, Porto;179000;0;1;;;0;;Not available;True;False;True;True;True;47.0;4
+Arca d´ Água, Porto;233000;1;1;;;0;;Not available;True;False;True;True;True;47.0;5
+Valongo, Valongo;230000;3;2;90.0;185.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;45.1;15
+Algueirão-Mem Martins, Lisboa;190000;3;2;70.0;100.0;1;3.0;Not available;True;True;True;True;False;44.8;11
+OVAR Centro, Ovar;135000;2;1;70.0;73.0;0;;Not available;True;False;False;False;False;47.1;16
+Baleal, Peniche;280000;2;1;86.0;102.0;0;;Not available;True;False;False;False;True;47.9;5
+À Av. Uruguai, Lisboa;399900;3;2;85.0;91.0;0;;Not available;True;True;True;True;False;44.8;10
+Valongo, Porto;165000;2;1;78.0;83.0;1;2.0;Not available;True;False;True;True;True;47.0;15
+GAIA Madalena, Vila Nova de Gaia;335000;3;3;107.0;107.0;2;2.0;Energy Performance Certificate;False;False;True;True;False;46.8;5
+Qta do Marquês, Oeiras;460000;3;2;93.0;118.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;46.5;1
+Antas, Porto;210000;2;2;101.0;129.0;1;2.0;Not available;True;False;True;True;True;47.0;7
+Senhora da Hora, Matosinhos;230000;3;2;92.0;92.0;0;;Not available;True;False;True;False;False;47.5;4
+Ramalde, Porto;189000;3;1;85.0;85.0;0;0.0;Not available;True;False;True;True;True;47.0;3
+Olivais, Lisboa;249000;2;1;72.0;72.0;0;;Not available;True;True;True;True;False;44.8;16
+Antas, Porto;590000;3;3;165.0;197.0;2;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Miratejo, Seixal;159000;2;1;63.0;72.0;0;;Not available;True;False;False;False;False;51.2;11
+Bairro das Amendoeiras, Lisboa;250000;3;1;92.0;92.0;0;;Not available;True;True;True;True;False;44.8;15
+Rio Tinto - Areosa, Gondomar;139500;2;1;80.0;85.0;0;;Not available;True;False;True;False;False;47.1;8
+Lamego (Almacave e Sé), Viseu;215000;4;3;131.0;165.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;51.5;71
+Damaia de Cima, Amadora;255000;2;2;93.0;98.0;0;;Not available;True;False;True;True;False;44.1;8
+Damaia de Cima, Amadora;255000;2;2;93.0;98.0;0;;Not available;True;False;True;True;False;44.1;8
+Damaia de Cima, Amadora;255000;3;2;85.0;90.0;0;;Not available;True;False;True;True;False;44.1;8
+Paços de Ferreira, Porto;250000;3;3;133.0;148.0;2;2.0;Not available;True;False;True;True;True;47.0;28
+Bragaparque, Braga;229900;3;2;104.0;106.0;1;1.0;Energy Performance Certificate;False;False;False;True;False;44.4;31
+Avenidas Novas, Lisboa;345000;0;1;43.0;54.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;13
+Mafamude e Vilar do Paraíso, Porto;263000;3;2;85.0;100.0;1;1.0;Not available;True;False;True;True;True;47.0;6
+QUINTA DA FÁBRICA DA PÓLVORA, Seixal;352500;3;2;107.0;135.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;44.9;7
+Mafamude e Vilar do Paraíso, Porto;495000;5;3;218.0;233.0;2;1.0;Not available;True;False;True;True;True;47.0;6
+Vermoeira, Mafra;284000;5;3;144.0;245.0;2;1.0;Not available;True;False;False;False;False;43.8;23
+Santa Marinha e São Pedro da Afurada, Porto;690000;3;3;222.0;295.0;3;10.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+Vila Nova de Gaia, Vila Nova de Gaia;190000;1;1;61.0;90.0;1;1.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Peniche, Peniche;149500;2;1;65.0;95.0;1;1.0;Not available;True;False;False;False;True;47.9;4
+Caniço de Baixo, Santa Cruz;345000;2;1;96.0;118.0;1;;Not available;True;False;False;False;False;43.7;905
+Celas, Coimbra;420000;4;2;145.0;163.0;1;4.0;Energy Performance Certificate;False;False;False;True;False;48.3;40
+Caniço de Baixo, Santa Cruz;345000;2;1;96.0;118.0;1;;Not available;True;False;False;False;False;43.7;905
+Celas, Coimbra;420000;4;2;145.0;163.0;1;4.0;Energy Performance Certificate;False;False;False;True;False;48.3;40
+Valongo, Porto;382000;3;3;138.0;138.0;2;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;15
+Sé, Santa Maria e Meixedo, Bragança;89000;2;1;;;0;;Not available;True;False;False;True;False;44.4;171
+Avenidas Novas, Lisboa;840000;3;3;183.0;183.0;2;5.0;Not available;True;True;True;True;False;44.8;13
+Quarteira, Faro;260000;1;1;77.0;92.0;1;1.0;Not available;True;False;False;False;True;45.7;38
+Portimão, Faro;355000;2;2;95.0;140.0;2;2.0;Energy Performance Certificate;False;False;False;False;True;45.7;1
+Corujeira, Porto;288900;1;1;48.0;56.0;1;5.0;Not available;False;False;True;True;True;47.0;7
+Corujeira, Porto;255900;1;1;45.0;53.0;1;5.0;Not available;False;False;True;True;True;47.0;7
+SJM 4, São João da Madeira;290000;3;3;139.0;150.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;47.0;17
+Sé, Santa Maria e Meixedo, Bragança;139000;3;2;;;0;;Not available;True;False;False;True;False;44.4;171
+Portela, Loures;350000;3;2;125.0;125.0;1;6.0;Not available;True;False;False;False;False;44.6;18
+Loures, Loures;264000;2;1;97.0;97.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;44.6;18
+Lumiar, Lisboa;549000;3;3;135.0;135.0;1;4.0;Not available;True;True;True;True;False;44.8;13
+Corujeira, Porto;288000;1;1;48.0;56.0;1;2.0;Not available;False;False;True;True;True;47.0;7
+Madragoa, Lisboa, Lisboa;225000;1;1;26.0;26.0;0;;Not available;True;True;True;True;False;44.8;11
+Corujeira, Porto;255255;1;1;45.0;53.0;1;2.0;Not available;False;False;True;True;True;47.0;7
+Campanhã, Porto;394000;2;2;71.0;83.0;1;2.0;Not available;False;False;True;True;True;47.0;8
+Areeiro, Lisboa;330000;4;2;109.0;109.0;0;;Not available;True;True;True;True;False;44.8;14
+Corujeira, Porto;402000;2;2;66.0;78.0;1;2.0;Not available;False;False;True;True;True;47.0;7
+Valpaços e Sanfins, Vila Real;103000;3;2;80.0;95.0;0;;Not available;True;False;False;False;False;59.8;123
+Corujeira, Porto;272500;1;1;48.0;56.0;1;1.0;Not available;False;False;True;True;True;47.0;7
+Olivais Sul, Lisboa;550000;5;2;165.0;165.0;0;;Not available;True;True;True;True;False;44.8;16
+Corujeira, Porto;255000;1;1;46.0;53.0;1;1.0;Not available;False;False;True;True;True;47.0;7
+Corujeira, Porto;390000;2;2;71.0;83.0;1;1.0;Not available;False;False;True;True;True;47.0;7
+Recardães e Espinhel, Aveiro;170000;3;2;130.0;139.0;0;;Not available;True;False;False;False;True;45.5;52
+Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau), Santarém;140000;3;2;100.0;100.0;0;;Not available;True;False;False;False;False;48.3;58
+Feijó, Almada;199500;2;1;75.0;85.0;0;;Not available;True;False;True;False;False;46.3;6
+Areeiro, Lisboa;210000;1;1;35.0;37.0;0;;Not available;True;True;True;True;False;44.8;14
+Casa Branca, Funchal;200000;1;1;66.0;73.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;48.0;912
+Monserrate, Viana do Castelo;199000;3;2;121.0;121.0;1;0.0;Energy Performance Certificate;False;False;False;False;True;48.8;0
+Monte Verde, Tavira;195000;1;1;46.0;63.0;1;2.0;Not available;True;False;False;False;True;51.2;79
+Serra de Carnaxide, Oeiras;480000;3;2;107.0;115.0;2;1.0;Energy Performance Certificate;False;False;False;False;False;46.5;5
+Vila Nova de Famalicão e Calendário, Braga;188500;3;3;128.0;128.0;0;;Not available;True;False;False;True;False;44.4;23
+Águas Belas, Santarém;107000;1;1;53.0;56.0;1;;Not available;True;False;False;False;False;48.3;70
+S. Miguel, Ovar;105000;0;1;32.0;32.0;1;0.0;Not available;True;False;False;False;False;47.1;16
+Arca d´ Água, Porto;330000;3;3;136.0;145.0;0;;Not available;True;False;True;True;True;47.0;5
+Lumiar, Lisboa;298000;2;1;114.0;114.0;1;9.0;Not available;True;True;True;True;False;44.8;13
+Sesmarias, Portimão;377500;2;2;101.0;119.0;2;2.0;Energy Performance Certificate;False;False;False;False;True;45.5;4
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;120000;2;1;70.0;70.0;0;;Not available;True;False;False;False;False;52.8;6479
+Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro), Braga;175000;1;1;47.0;56.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;46.3;11
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;119000;2;1;80.0;80.0;0;;Not available;True;False;False;False;False;52.8;6479
+Nogueira, Fraião e Lamaçães, Braga;460000;6;3;240.0;296.0;2;1.0;Not available;True;False;False;True;False;44.4;31
+Caparica, Almada;345000;3;2;99.0;102.0;1;2.0;Not available;True;False;True;False;False;46.3;3
+Faro (Sé e São Pedro), Faro;210000;2;1;70.0;97.0;0;;Not available;True;False;False;False;True;45.7;54
+Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Lisboa;410000;2;2;120.0;134.0;0;;Not available;True;True;True;True;False;44.8;1
+Camarate, Unhos e Apelação, Lisboa;55000;4;2;75.0;75.0;0;;Not available;True;True;True;True;False;44.8;19
+Real, Ataíde e Oliveira, Porto;169000;3;2;123.0;123.0;3;2.0;Not available;True;False;True;True;True;47.0;42
+Pinhal Novo, Setúbal;175800;2;1;88.0;94.0;0;;Not available;True;False;True;True;False;46.6;27
+Gondomar (São Cosme), Valbom e Jovim, Porto;245000;2;2;103.0;137.0;2;;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;367500;4;3;135.0;159.0;2;2.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;310000;3;3;110.0;129.0;2;2.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;310000;3;3;110.0;129.0;2;2.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;347500;3;3;135.0;158.0;2;2.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;270000;2;2;95.0;112.0;2;1.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;365000;4;3;135.0;159.0;2;1.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;307500;3;2;110.0;129.0;2;1.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;307500;3;3;110.0;129.0;2;1.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;345000;3;3;135.0;158.0;2;1.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;262500;2;2;91.0;108.0;2;1.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;205000;2;3;72.0;86.0;2;0.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;367500;4;3;135.0;158.0;2;;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;310000;3;3;107.0;126.0;2;0.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;347500;3;3;135.0;158.0;2;0.0;Not available;True;False;True;True;True;47.1;11
+Gondomar (São Cosme), Valbom e Jovim, Porto;245000;2;2;103.0;137.0;2;0.0;Not available;True;False;True;True;True;47.1;11
+Santa Marinha e São Pedro da Afurada, Porto;198000;0;1;41.0;51.0;1;3.0;Not available;True;False;True;True;True;47.0;4
+São Sebastião de Guerreiros, Loures;185000;2;1;75.0;94.0;0;;Not available;True;False;False;False;False;44.6;18
+Carnaxide, Oeiras;495000;3;2;110.0;124.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.5;5
+Santa Marinha e Afurada, Vila Nova de Gaia;198000;0;1;41.0;51.0;1;;Not available;True;False;True;True;False;46.8;4
+Campo de Ourique, Lisboa;370000;1;1;55.0;77.0;0;;Not available;True;True;True;True;False;44.8;10
+Laranjeiras Metro, Lisboa;820000;4;2;170.0;190.0;2;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;11
+Largo da Paz, Lisboa;260000;1;1;44.0;50.0;0;;Not available;True;True;True;True;False;44.8;7
+Amial, Porto;190000;3;1;93.0;93.0;0;;Not available;True;False;True;True;True;47.0;6
+Hospital S. João, Maia;210000;1;1;46.0;;0;;Not available;True;False;False;False;False;45.5;6
+Portela, Loures;399000;3;2;106.0;106.0;1;5.0;Energy Performance Certificate;False;False;False;False;False;44.6;18
+Santo Tirso, Santo Tirso;160000;2;1;96.0;96.0;2;3.0;Not available;False;False;False;False;False;49.5;27
+Venteira, Amadora;200000;2;1;66.0;78.0;0;;Not available;True;False;True;True;False;44.1;8
+Venteira, Lisboa;240875;3;2;70.0;97.0;0;;Not available;True;True;True;True;False;44.8;8
+Porto, Porto;162500;1;1;76.0;76.0;1;1.0;Not available;True;False;True;True;True;47.0;3
+Algueirão-Mem Martins, Lisboa;165000;2;1;64.0;71.0;0;;Not available;True;True;True;True;False;44.8;11
+Campolide, Lisboa;230000;1;1;30.0;36.0;0;1.0;Not available;True;True;True;True;False;44.8;10
+Fluvial, Porto;397000;2;1;90.0;94.0;0;;Not available;True;False;True;True;True;47.0;1
+Valbom Zona 1, Gondomar;233000;2;2;;;0;;Not available;True;False;True;False;False;47.1;9
+Ermesinde, Porto;190000;3;2;88.0;99.0;1;1.0;Not available;True;False;True;True;True;47.0;12
+Rio Tinto, Gondomar;270000;2;2;85.0;;0;;Not available;True;False;True;False;False;47.1;9
+Seia, São Romão e Lapa dos Dinheiros, Guarda;90000;3;2;115.0;124.0;0;;Not available;True;False;False;False;False;49.6;102
+Arcozelo, Braga;250000;2;2;125.0;125.0;1;2.0;Not available;True;False;False;True;False;44.4;14
+Arcozelo, Braga;205000;2;2;81.0;81.0;1;0.0;Not available;True;False;False;True;False;44.4;14
+Belém, Lisboa;610000;3;2;140.0;150.0;0;;Not available;True;True;True;True;False;44.8;6
+Caldas da Rainha - Santo Onofre e Serra do Bouro, Leiria;149000;2;1;70.0;80.0;1;;Not available;True;False;False;False;False;48.4;21
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;180000;1;1;62.0;66.0;1;2.0;Not available;False;False;False;False;False;48.5;79
+Algueirão/Mem-Martins, Sintra;174000;2;1;76.0;92.0;0;;Not available;True;False;False;False;False;43.7;11
+Arcozelo, Braga;185000;1;1;76.0;76.0;1;2.0;Not available;True;False;False;True;False;44.4;14
+Centro Saúde, Faro;215000;1;1;56.0;68.0;0;3.0;Energy Performance Certificate;False;False;False;False;True;45.7;54
+Lourosa, Aveiro;155000;2;1;107.0;107.0;1;3.0;Energy Performance Certificate;False;False;False;False;True;45.5;8
+Pinhal Novo, Setúbal;186500;3;2;92.0;152.0;0;;Not available;True;False;True;True;False;46.6;27
+Centro Estarreja, Estarreja;215000;3;2;123.0;147.0;2;1.0;Not available;True;False;False;False;False;48.0;28
+Fátima, Santarém;180000;3;2;127.0;127.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;48.3;64
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;175000;1;1;55.0;65.0;1;2.0;Not available;False;False;False;False;False;48.5;79
+Lourosa, Aveiro;169000;2;2;100.0;100.0;1;0.0;Energy Performance Certificate;False;False;False;False;True;45.5;8
+Costa da Caparica, Setúbal;179000;1;1;56.0;58.0;0;;Not available;True;False;True;True;True;46.6;0
+Polo Universitário, Porto;245000;1;1;40.0;;0;;Not available;True;False;True;True;True;47.0;6
+Pombal, Leiria;250000;2;2;101.0;182.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;225000;2;2;105.0;137.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;277500;3;2;115.0;166.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;272500;3;2;113.0;159.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;205000;2;2;88.0;117.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;282500;3;2;115.0;166.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;287500;3;2;113.0;164.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;215000;2;2;88.0;117.0;0;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;330000;3;2;115.0;219.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;330000;3;2;113.0;216.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;325000;3;2;113.0;213.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;315000;3;2;118.0;219.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;287500;3;2;115.0;166.0;0;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;282500;3;2;113.0;161.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;330000;3;1;114.0;;0;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;310000;3;2;113.0;221.0;2;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;330000;3;1;114.0;;0;;Not available;True;False;False;False;False;46.4;35
+QUINTA DO BATATEIRO, Seixal;266000;4;2;126.0;138.0;0;;Not available;True;False;False;False;False;44.9;9
+Corroios, Setúbal;199000;2;1;81.0;90.0;0;3.0;Not available;True;False;True;True;False;46.6;7
+Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Lisboa;120000;0;1;26.0;28.0;0;;Not available;True;True;True;True;False;44.8;1
+Penafiel, Porto;162500;2;1;138.0;106.0;0;;Not available;True;False;True;True;True;47.0;32
+Vila de Cucujães, Aveiro;140000;3;2;120.0;169.0;1;;Not available;True;False;False;False;True;45.5;19
+Vila do Conde, Porto;586000;2;3;109.0;109.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Castelo, Vila do Conde;378000;1;2;69.0;69.0;1;2.0;Not available;True;False;False;False;False;45.7;18
+Vila do Conde, Porto;884000;3;4;154.0;154.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Mafamude e Vilar do Paraíso, Porto;348000;4;3;184.0;217.0;2;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Laranjeiro e Feijó, Setúbal;220000;3;2;90.0;130.0;0;;Not available;True;False;True;True;False;46.6;6
+Olaias, Lisboa;467000;3;2;101.0;101.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;14
+Fânzeres e São Pedro da Cova, Porto;212000;2;2;87.0;109.0;1;3.0;Not available;True;False;True;True;True;47.0;13
+Fânzeres e São Pedro da Cova, Porto;208000;2;2;87.0;109.0;1;1.0;Not available;True;False;True;True;True;47.0;13
+Fânzeres e São Pedro da Cova, Porto;204500;2;2;87.0;109.0;1;0.0;Not available;True;False;True;True;True;47.0;13
+Seia, São Romão e Lapa dos Dinheiros, Guarda;67000;3;2;145.0;152.0;0;;Not available;True;False;False;False;False;49.6;102
+Vila do Conde, Porto;581000;2;3;109.0;109.0;2;1.0;Not available;True;False;True;True;True;47.0;18
+Vila do Conde, Porto;836000;3;4;154.0;154.0;2;1.0;Not available;True;False;True;True;True;47.0;18
+Vila do Conde, Porto;516000;2;3;109.0;109.0;2;0.0;Not available;True;False;True;True;True;47.0;18
+Casal do Marco, Seixal;299500;3;2;126.0;147.0;1;1.0;Not available;True;False;False;False;False;44.9;12
+Vila do Conde, Porto;446000;1;2;91.0;91.0;1;0.0;Not available;True;False;True;True;True;47.0;18
+Alhos Vedros, Setúbal;152000;2;1;74.0;85.0;0;;Not available;True;False;True;True;False;46.6;19
+Azurém, Braga;151000;1;1;53.0;60.0;1;2.0;Not available;True;False;False;True;False;44.4;40
+Vila do Conde, Porto;372000;1;2;75.0;75.0;1;0.0;Not available;True;False;True;True;True;47.0;18
+Pampilhosa, Mealhada;195000;2;2;102.0;115.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Torre da Marinha, Seixal;172500;2;1;60.0;65.0;0;;Not available;True;False;False;False;False;44.9;11
+Centro Oliveira do Bairro, Oliveira do Bairro;105000;1;1;45.0;52.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.1;50
+Ferrel, Peniche;198000;1;1;48.0;66.0;1;0.0;Not available;True;False;False;False;True;47.9;5
+Valbom Zona 1, Gondomar;175000;2;1;;;0;;Not available;True;False;True;False;False;47.1;9
+Pampilhosa, Mealhada;265000;3;2;123.0;142.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Olivais Sul, Lisboa;350000;2;1;90.0;90.0;0;;Not available;True;True;True;True;False;44.8;16
+Vialonga, Lisboa;320000;3;2;119.0;130.0;2;1.0;Energy Performance Certificate;False;True;True;True;False;44.8;26
+Pampilhosa, Mealhada;195000;3;3;132.0;151.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Alto do Moinho, Seixal;149900;2;1;70.0;82.0;0;;Not available;True;False;False;False;False;44.9;11
+Moncarapacho e Fuseta, Faro;257000;2;2;74.0;92.0;1;1.0;Not available;True;False;False;False;True;45.7;66
+Pampilhosa, Mealhada;175000;2;2;102.0;115.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Malveira - 8 Encantos, Mafra;375000;4;3;168.0;188.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;43.8;20
+Mafra Periferia, Mafra;315000;2;1;100.0;122.0;0;;Not available;True;False;False;False;False;43.8;16
+Pampilhosa, Mealhada;195000;3;2;123.0;142.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Ajuda, Lisboa;398000;2;1;;;0;;Not available;True;True;True;True;False;44.8;8
+Pampilhosa, Mealhada;195000;3;3;132.0;151.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Paços de Brandão, Aveiro;160000;3;2;105.0;105.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;45.5;5
+Pampilhosa, Mealhada;175000;2;2;89.0;118.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Areeiro, Loulé;290000;3;2;115.0;125.0;0;;Not available;True;False;False;False;False;46.9;45
+Pampilhosa, Mealhada;195000;3;2;121.0;142.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;49.3;43
+Alhos Vedros, Setúbal;139000;4;2;110.0;120.0;0;;Not available;True;False;True;True;False;46.6;19
+Campo dos Leões, Santarém;150000;3;2;87.0;87.0;0;;Not available;True;False;False;False;False;48.3;60
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;60000;4;1;81.0;81.0;0;;Not available;True;False;False;False;False;52.8;6479
+Povoa de Santa Iria  e Forte da Casa, Vila Franca , Vila Franca de Xira;390000;4;3;182.0;182.0;3;3.0;Energy Performance Certificate;False;False;False;False;False;44.1;26
+Lumiar, Lisboa;249000;2;2;55.0;55.0;0;;Not available;True;True;True;True;False;44.8;13
+Santa Maria Maior, Vila Real;120000;2;2;95.0;111.0;0;;Not available;True;False;False;False;False;48.5;111
+ENTC - LIDL, Entroncamento;365000;3;2;132.0;132.0;1;3.0;Not available;True;False;False;False;False;45.5;77
+ENTC - LIDL, Entroncamento;325000;3;2;127.0;127.0;2;3.0;Not available;True;False;False;False;False;45.5;77
+Nossa Senhora de Fátima, Santarém;335000;3;2;127.0;127.0;1;3.0;Not available;True;False;False;False;False;48.3;64
+ENTC - LIDL, Entroncamento;350000;3;2;144.0;144.0;1;3.0;Not available;True;False;False;False;False;45.5;77
+ENTC - LIDL, Entroncamento;290000;3;2;137.0;137.0;1;2.0;Not available;True;False;False;False;False;45.5;77
+ENTC - LIDL, Entroncamento;290000;3;2;137.0;137.0;1;2.0;Not available;True;False;False;False;False;45.5;77
+Pombal, Leiria;205000;2;1;94.0;;0;;Not available;True;False;False;False;False;46.4;35
+ENTC - LIDL, Entroncamento;270000;3;2;129.0;129.0;1;2.0;Not available;True;False;False;False;False;45.5;77
+Santa Marinha e São Pedro da Afurada, Porto;170000;0;1;34.0;56.0;1;1.0;Not available;False;False;True;True;True;47.0;4
+Pombal, Leiria;272500;3;1;;;0;;Not available;True;False;False;False;False;46.4;35
+ENTC - LIDL, Entroncamento;280000;3;2;129.0;129.0;1;2.0;Not available;True;False;False;False;False;45.5;77
+Pombal, Leiria;230000;2;2;105.0;137.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;46.4;35
+Pombal, Leiria;240000;2;2;101.0;180.0;1;0.0;Not available;True;False;False;False;False;46.4;35
+ENTC - LIDL, Entroncamento;285000;3;2;147.0;147.0;0;;Not available;True;False;False;False;False;45.5;77
+Pombal, Leiria;275000;3;2;118.0;177.0;2;0.0;Energy Performance Certificate;False;False;False;False;False;46.4;35
+ENTC - LIDL, Entroncamento;290000;3;2;147.0;147.0;0;;Not available;True;False;False;False;False;45.5;77
+ENTC - LIDL, Entroncamento;280000;3;2;137.0;137.0;0;;Not available;True;False;False;False;False;45.5;77
+ENTC - LIDL, Entroncamento;240000;3;2;129.0;129.0;0;;Not available;True;False;False;False;False;45.5;77
+ENTC - LIDL, Entroncamento;270000;3;2;129.0;129.0;0;;Not available;True;False;False;False;False;45.5;77
+Ermesinde, Porto;167500;2;1;70.0;74.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;12
+Monte Gordo, Vila Real de Santo António;149000;1;1;43.0;45.0;0;;Not available;True;False;False;False;False;48.5;96
+ENTC - LIDL, Entroncamento;275000;3;2;147.0;147.0;0;;Not available;True;False;False;False;False;45.5;77
+Leiria, Pousos, Barreira e Cortes, Leiria;275000;3;3;160.0;201.0;2;4.0;Energy Performance Certificate;False;False;False;False;False;46.4;47
+ENTC - LIDL, Entroncamento;280000;3;2;147.0;147.0;0;;Not available;True;False;False;False;False;45.5;77
+Leiria, Pousos, Barreira e Cortes, Leiria;260000;3;3;122.0;172.0;2;3.0;Energy Performance Certificate;False;False;False;False;False;46.4;47
+Leiria, Pousos, Barreira e Cortes, Leiria;257000;3;3;122.0;164.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.4;47
+Leiria, Pousos, Barreira e Cortes, Leiria;255000;3;3;122.0;164.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.4;47
+ENTC - LIDL, Entroncamento;260000;3;2;126.0;126.0;0;;Not available;True;False;False;False;False;45.5;77
+ENTC - LIDL, Entroncamento;260000;3;2;126.0;126.0;0;;Not available;True;False;False;False;False;45.5;77
+Alboi, Aveiro;235000;1;2;52.0;;0;;Not available;True;False;False;False;True;45.5;40
+Ramalde, Porto;206000;3;2;105.0;;0;;Not available;True;False;True;True;True;47.0;3
+ENTC - LIDL, Entroncamento;260000;3;2;129.0;;0;;Not available;True;False;False;False;False;45.5;77
+Peniche, Peniche;180000;2;1;88.0;116.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;47.9;4
+ENTC - LIDL, Entroncamento;275000;3;2;147.0;147.0;1;0.0;Not available;True;False;False;False;False;45.5;77
+Abrantes, Abrantes;165000;3;2;137.0;202.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;53.4;97
+Campanhã, Porto;289000;1;1;52.0;58.0;1;8.0;Not available;False;False;True;True;True;47.0;8
+Olivais Sul, Lisboa;238000;2;1;58.0;58.0;0;;Not available;True;True;True;True;False;44.8;16
+Campanhã, Porto;310000;1;1;50.0;50.0;1;10.0;Not available;False;False;True;True;True;47.0;8
+Costa, Braga;200000;1;2;59.0;70.0;2;3.0;Energy Performance Certificate;False;False;False;True;False;44.4;29
+Santa Maria Maior, Viana do Castelo;348000;3;2;168.0;168.0;2;1.0;Energy Performance Certificate;False;False;False;False;True;48.8;1
+Bairro do Rosário, Cascais;299000;1;1;40.0;50.0;0;;Not available;True;False;False;False;True;46.9;2
+Paredes, Porto;295000;3;3;159.0;159.0;2;1.0;Energy Performance Certificate;False;False;True;True;True;44.3;21
+Vila Franca de Xira, Vila Franca de Xira;159000;3;1;72.0;72.0;0;;Not available;True;False;False;False;False;44.1;38
+Damaia de Cima, Amadora;170000;2;1;70.0;75.0;0;;Not available;True;False;True;True;False;44.1;8
+São Pedro de Castelões, Aveiro;175000;4;2;122.0;122.0;1;8.0;Energy Performance Certificate;False;False;False;False;True;45.5;28
+Oliveira do Douro, Porto;230000;3;2;83.0;103.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Bougado (São Martinho e Santiago), Porto;195000;3;3;134.0;134.0;0;;Not available;True;False;True;True;True;47.0;23
+Guarda, Guarda;99000;3;2;95.0;102.0;1;3.0;Not available;True;False;False;False;False;49.6;160
+Oliveira do Douro, Porto;230000;3;3;126.0;144.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Linda-a-Velha, Oeiras;158000;1;1;53.0;60.0;0;;Not available;True;False;False;False;False;46.5;4
+Costa Cabral, Porto;320000;3;2;96.0;96.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau), Santarém;180000;4;2;135.0;135.0;1;;Not available;True;False;False;False;False;48.3;58
+Lumiar, Lisboa;280000;1;1;60.0;75.0;0;;Not available;True;True;True;True;False;44.8;13
+Moita, Setúbal;112000;2;1;70.0;80.0;0;;Not available;True;False;True;True;False;45.0;21
+Gulpilhares e Valadares, Porto;229000;2;2;100.0;143.0;1;0.0;Not available;True;False;True;True;True;47.0;7
+Charneca de Caparica e Sobreda, Setúbal;260000;2;1;88.0;121.0;0;1.0;Energy Performance Certificate;False;False;True;True;False;46.6;3
+Paranhos, Porto;175000;0;1;36.0;133.0;0;;Not available;True;False;True;True;True;47.0;6
+Estrela, Lisboa;650000;2;2;130.0;140.0;0;;Not available;True;True;True;True;False;44.8;8
+Agualva e Mira-Sintra, Lisboa;225000;3;1;90.0;101.0;0;9.0;Energy Performance Certificate;False;True;True;True;False;51.2;8
+Vila Franca de Xira, Vila Franca de Xira;275000;2;1;76.0;115.0;2;0.0;Energy Performance Certificate;False;False;False;False;False;44.1;38
+Nossa Senhora da Piedade, Santarém;159000;3;2;109.0;121.0;2;1.0;Not available;True;False;False;False;False;48.3;60
+Centro, Guarda;160000;3;2;130.0;155.0;1;5.0;Energy Performance Certificate;False;False;False;False;False;49.6;126
+Ranhados, Viseu;256000;3;3;124.0;151.0;2;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;74
+Antas, Porto;220000;1;1;55.0;55.0;0;;Not available;True;False;True;True;True;47.0;7
+Alvalade, Lisboa;195000;0;1;33.0;37.0;0;;Not available;True;True;True;True;False;44.8;14
+Costa da Caparica, Setúbal;379000;0;1;37.0;43.0;0;;Not available;True;False;True;True;True;46.6;0
+Esgueira, Aveiro;227500;3;2;114.0;;0;;Not available;True;False;False;False;True;45.5;39
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;300000;3;2;113.0;112.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;48.5;79
+Pombal, Leiria;164000;1;1;60.0;134.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;161500;1;1;60.0;124.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;159000;1;1;60.0;123.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;242000;2;2;110.0;166.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;200000;2;2;94.0;161.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;200700;2;2;99.0;134.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;200700;2;2;99.0;151.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;202700;2;2;94.0;160.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;199000;2;2;94.0;160.0;1;;Not available;True;False;False;False;False;46.4;35
+Altura, Castro Marim;292500;2;1;59.0;77.0;0;;Not available;True;False;False;False;False;52.6;91
+Pombal, Leiria;210000;2;2;94.0;175.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;212000;2;2;94.0;175.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;290000;4;2;161.0;259.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;290000;4;2;161.0;251.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;295000;4;2;161.0;278.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;280000;4;2;161.0;203.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;285000;4;2;161.0;211.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;310000;4;2;161.0;251.0;1;;Not available;True;False;False;False;False;46.4;35
+Ermesinde, Valongo;134500;1;1;44.0;44.0;0;;Not available;True;False;False;False;False;45.1;12
+Pombal, Leiria;295000;3;2;195.0;289.0;1;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;295000;3;2;193.0;287.0;1;;Not available;True;False;False;False;False;46.4;35
+Centro de São Mamede de Infesta, Matosinhos;255000;4;3;130.0;138.0;0;;Not available;True;False;True;False;False;47.5;7
+Campolide, Lisboa;349000;2;1;66.0;74.0;0;;Not available;True;True;True;True;False;44.8;10
+Bx. Banheira / Mercado Municipal, Moita;290000;3;2;143.0;233.0;2;2.0;Not available;True;False;False;False;False;45.0;16
+Vila Nova de Gaia, Vila Nova de Gaia;344900;2;2;116.0;146.0;1;2.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Bx. Banheira / Mercado Municipal, Moita;290000;3;2;143.0;233.0;2;2.0;Not available;True;False;False;False;False;45.0;16
+Penha, Faro;338000;3;2;113.0;153.0;1;5.0;Energy Performance Certificate;False;False;False;False;True;45.7;55
+Viseu, Viseu;170000;2;1;70.0;108.0;1;0.0;Not available;True;False;False;False;False;46.9;72
+Vila Nova Caparica 2, Almada;420000;3;2;130.0;137.0;1;2.0;Not available;False;False;True;False;False;46.3;2
+Praia, Póvoa de Varzim;275000;2;2;93.0;93.0;0;;Not available;True;False;True;False;False;45.8;14
+Boavista, Porto;295000;1;1;52.0;132.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+Madalena, Porto;220000;2;2;123.0;138.0;3;;Not available;True;False;True;True;True;47.0;5
+Gulpilhares e Valadares, Porto;200000;1;1;57.0;64.0;0;;Not available;True;False;True;True;True;47.0;7
+Garajau, Santa Cruz;220000;2;2;91.0;110.0;1;0.0;Not available;True;False;False;False;False;43.7;8950
+Arcozelo, Braga;136000;2;1;85.0;85.0;0;;Not available;True;False;False;True;False;44.4;14
+Castelo Branco, Castelo Branco;127380;2;1;64.0;85.0;0;;Not available;True;False;False;False;False;50.5;124
+Mafamude e Vilar do Paraíso, Porto;157000;2;1;54.0;59.0;0;;Not available;True;False;True;True;True;47.0;6
+Odivelas, Odivelas;415000;3;2;111.0;177.0;1;5.0;Energy Performance Certificate;False;False;False;False;False;43.7;14
+Olhão Norte, Olhão;215000;2;1;76.0;95.0;0;;Not available;True;False;False;False;True;46.2;62
+Rio Tinto, Porto;115000;3;2;79.0;86.0;0;;Not available;True;False;True;True;True;47.0;9
+Cacém e São Marcos, Lisboa;169000;2;1;70.0;77.0;0;;Not available;True;True;True;True;False;44.8;8
+Torel, Lisboa;490000;0;1;48.0;62.0;0;;Not available;True;True;True;True;False;44.8;11
+Rio de Mouro, Lisboa;176900;2;1;71.0;60.0;0;;Not available;True;True;True;True;False;44.8;8
+Cete, Porto;128000;2;1;70.0;99.0;1;;Not available;True;False;True;True;True;47.0;25
+Telheiras, Lisboa;399000;2;1;75.0;80.0;1;;Not available;True;True;True;True;False;44.8;12
+Quarteira, Faro;330000;2;2;59.0;71.0;1;4.0;Energy Performance Certificate;False;False;False;False;True;45.7;38
+Peniche, Peniche;150000;3;2;85.0;102.0;0;;Not available;True;False;False;False;True;47.9;4
+Águas Livres, Lisboa;114900;0;1;;;0;;Not available;True;True;True;True;False;44.8;8
+Baguim do Monte - Missilva, Gondomar;305000;3;2;88.0;88.0;2;1.0;Energy Performance Certificate;False;False;True;False;False;47.1;13
+Vila Nova de Gaia, Vila Nova de Gaia;199900;2;2;87.0;161.0;1;0.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Vila Nova de Gaia, Vila Nova de Gaia;320000;2;2;89.0;117.0;1;2.0;Energy Performance Certificate;False;False;True;True;False;46.8;6
+Vila Verde, Oliveira do Bairro;130000;2;1;85.0;104.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;45.7;49
+Rio Tinto - Medancelhe, Gondomar;230000;3;2;100.0;108.0;1;4.0;Not available;False;False;True;False;False;47.1;9
+Celas, Coimbra;245000;2;1;70.0;81.0;0;;Not available;True;False;False;True;False;48.3;40
+Lagoa e Carvoeiro, Faro;190000;1;1;40.0;52.0;1;10.0;Not available;True;False;False;False;True;45.7;9
+Lagoa e Carvoeiro, Faro;290000;1;2;66.0;82.0;0;;Not available;True;False;False;False;True;45.7;9
+Mafamude e Vilar do Paraíso, Porto;260000;3;2;136.0;148.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Vila Praia de Âncora, Viana do Castelo;165000;3;2;112.0;112.0;0;;Not available;True;False;False;False;True;48.8;13
+Lanhelas, Viana do Castelo;140000;4;2;127.0;165.0;0;;Not available;True;False;False;False;True;48.8;23
+Atouguia da Baleia, Peniche;139000;2;1;78.0;78.0;0;;Not available;True;False;False;False;True;47.9;3
+Massamá e Monte Abraão, Lisboa;235000;3;2;109.0;114.0;0;;Not available;True;True;True;True;False;44.8;6
+Tapada das Mercês, Sintra;199900;2;1;91.0;100.0;0;;Not available;True;False;False;False;False;43.7;11
+Alvor, Portimão;199000;0;1;34.0;38.0;0;;Not available;True;False;False;False;True;45.5;5
+Bonfim, Porto;100000;0;1;37.0;49.0;0;0.0;Not available;True;False;True;True;True;47.0;6
+Pombal, Leiria;140000;1;1;63.0;70.0;1;0.0;Not available;False;False;False;False;False;46.4;35
+Sines, Setúbal;210000;3;1;148.0;;0;;Not available;True;False;True;True;False;46.6;26
+Bonfim, Porto;100000;1;1;42.0;42.0;0;-1.0;Not available;True;False;True;True;True;47.0;6
+S. Martinho do Bispo, Coimbra;225000;2;3;94.0;181.0;1;1.0;Not available;True;False;False;True;False;48.3;36
+Paivas, Seixal;225000;2;1;76.0;76.0;0;;Not available;True;False;False;False;False;44.9;11
+Porto, Porto;130000;0;1;38.0;136.0;0;-1.0;Not available;True;False;True;True;True;47.0;3
+Estrela, Lisboa;115000;0;1;27.0;27.0;0;0.0;Not available;True;True;True;True;False;44.8;8
+Alto Rodes, Faro;210000;3;2;60.0;77.0;0;;Not available;True;False;False;False;True;45.7;54
+Bairro Sra. dos Remédios, Guarda;170000;3;2;111.0;124.0;2;2.0;Not available;True;False;False;False;False;49.6;126
+Moita, Moita;315000;3;3;77.0;118.0;0;;Not available;True;False;False;False;False;45.0;20
+Gulpilhares e Valadares, Porto;480000;3;4;168.0;226.0;3;2.0;Not available;True;False;True;True;True;47.0;7
+Arcozelo, Braga;185000;3;2;120.0;120.0;0;;Not available;True;False;False;True;False;44.4;14
+Alhos Vedros, Setúbal;190000;3;2;90.0;98.0;2;2.0;Not available;True;False;True;True;False;46.6;19
+Real Clube Massamá, Sintra;275000;3;2;96.0;109.0;1;;Not available;True;False;False;False;False;43.7;6
+Carcavelos e Parede, Lisboa;590000;3;2;98.0;108.0;1;2.0;Not available;True;True;True;True;False;44.8;4
+Bx. Banheira / Seg. Social, Moita;285000;3;2;117.0;138.0;1;1.0;Not available;True;False;False;False;False;45.0;16
+Pombal, Leiria;179000;2;2;89.0;98.0;1;1.0;Not available;False;False;False;False;False;46.4;35
+Pombal, Leiria;140000;1;1;65.0;72.0;1;1.0;Not available;False;False;False;False;False;46.4;35
+Pombal, Leiria;140000;1;1;65.0;72.0;1;2.0;Not available;False;False;False;False;False;46.4;35
+Pombal, Leiria;122000;1;1;49.0;54.0;0;;Not available;True;False;False;False;False;46.4;35
+Pombal, Leiria;179000;2;2;89.0;98.0;1;2.0;Not available;False;False;False;False;False;46.4;35
+Pombal, Leiria;140000;1;1;65.0;72.0;1;3.0;Not available;False;False;False;False;False;46.4;35
+Pombal, Leiria;179000;2;2;89.0;98.0;1;3.0;Not available;False;False;False;False;False;46.4;35
+Seia, São Romão e Lapa dos Dinheiros, Guarda;119000;4;4;148.0;146.0;0;;Not available;True;False;False;False;False;49.6;102
+Senhora da Hora, Matosinhos;630000;3;2;128.0;152.0;0;;Not available;True;False;True;False;False;47.5;4
+Pataias e Martingança, Leiria;129900;2;1;80.0;96.0;2;2.0;Not available;True;False;False;False;False;46.4;52
+Santiago e São Simão de Litém e Albergaria dos Doze, Leiria;139000;3;2;120.0;160.0;2;0.0;Not available;True;False;False;False;False;46.4;43
+Mafamude e Vilar do Paraíso, Porto;220000;2;2;86.0;108.0;1;7.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Santa Clara e Castelo Viegas, Coimbra;187500;3;2;90.0;108.0;2;;Not available;True;False;False;True;False;48.3;38
+Serpins, Coimbra;102500;4;2;140.0;204.0;1;2.0;Not available;True;False;False;True;False;48.3;56
+Azurara, Porto;210000;1;2;56.0;56.0;1;3.0;Not available;True;False;True;True;True;47.0;18
+Azurara, Porto;257500;2;2;93.0;93.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Azurara, Porto;257500;2;2;93.0;93.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Parque das Nações - Expo Sul, Lisboa;620000;2;2;137.0;137.0;2;7.0;Energy Performance Certificate;False;True;True;True;False;44.8;17
+Azurara, Porto;262000;2;2;93.0;93.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Falagueira, Amadora;249900;3;1;91.0;91.0;0;;Not available;True;False;True;True;False;44.1;8
+Azurara, Porto;260000;2;2;94.0;94.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Azurara, Porto;350000;2;1;88.0;88.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Azurara, Porto;410000;2;2;123.0;123.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Azurara, Porto;300000;2;1;70.0;70.0;2;2.0;Not available;True;False;True;True;True;47.0;18
+Alto do Seixalinho, Santo André e Verderena, Setúbal;129000;1;1;80.0;86.0;0;;Not available;True;False;True;True;False;44.9;14
+Azurara, Porto;272000;2;2;93.0;93.0;2;1.0;Not available;True;False;True;True;True;47.0;18
+Fânzeres - Regadas, Gondomar;213500;2;2;90.0;120.0;1;4.0;Energy Performance Certificate;False;False;True;False;False;47.1;12
+Azurara, Porto;360000;2;2;116.0;116.0;2;1.0;Not available;True;False;True;True;True;47.0;18
+Tarouca e Dálvares, Viseu;105000;3;1;80.0;89.0;0;;Not available;True;False;False;False;False;49.4;74
+Azurara, Porto;297000;2;2;105.0;105.0;2;1.0;Not available;True;False;True;True;True;47.0;18
+Vila do Conde, Porto;274900;2;2;77.0;97.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;18
+Azurara, Porto;280000;2;2;97.0;97.0;2;1.0;Not available;True;False;True;True;True;47.0;18
+Hospital S. João, Porto;215000;1;1;46.0;46.0;1;0.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+Azurara, Porto;325000;2;2;101.0;101.0;2;;Not available;True;False;True;True;True;47.0;18
+Azurara, Porto;319000;2;2;105.0;105.0;2;;Not available;True;False;True;True;True;47.0;18
+Colmeias e Memória, Leiria;195000;3;2;150.0;162.0;2;2.0;Not available;True;False;False;False;False;46.4;43
+Mateus, Vila Real;185000;3;2;108.0;134.0;1;;Not available;True;False;False;False;False;48.5;82
+Quarteira, Loulé;329000;2;1;60.0;80.0;0;;Not available;True;False;False;False;False;46.9;38
+São Gonçalo de Lagos, Faro;380000;3;3;150.0;170.0;0;;Not available;True;False;False;False;True;45.7;13
+Albufeira e Olhos de Água, Faro;905000;3;2;135.0;174.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;44.4;27
+A5 - Eirado, Vila Nova de Gaia;185000;2;2;100.0;102.0;1;1.0;Not available;True;False;True;True;False;46.8;6
+Albufeira e Olhos de Água, Faro;400000;1;1;70.0;95.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;44.4;27
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;195000;1;2;115.0;127.0;0;;Not available;True;False;False;False;False;52.8;6479
+Ermesinde, Valongo;109000;1;1;52.0;57.0;0;;Not available;True;False;False;False;False;45.1;12
+Albufeira e Olhos de Água, Faro;450000;1;1;59.0;84.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;44.4;27
+Santa Marta do Pinhal, Seixal;223000;3;2;106.0;106.0;0;;Not available;True;False;False;False;False;44.9;11
+Tomar (São João Baptista) e Santa Maria dos Olivais, Santarém;305000;3;2;131.0;131.0;0;;Not available;True;False;False;False;False;52.8;6479
+Nogueira da Regedoura, Aveiro;120000;2;1;90.0;90.0;0;;Not available;True;False;False;False;True;45.5;5
+Santo António Cavaleiros, Loures;220000;2;1;53.0;65.0;0;;Not available;True;False;False;False;False;44.6;17
+Faro (Sé e São Pedro), Faro;160000;1;1;45.0;45.0;0;;Not available;True;False;False;False;True;45.7;54
+Vila Nova de Famalicão e Calendário, Braga;175000;3;2;112.0;112.0;1;1.0;Not available;True;False;False;True;False;44.4;23
+Portimão, Faro;455000;2;2;95.0;140.0;2;4.0;Energy Performance Certificate;False;False;False;False;True;45.7;1
+Portimão, Faro;257500;2;2;73.0;86.0;0;;Not available;True;False;False;False;True;45.7;1
+São Mamede de Infesta e Senhora da Hora, Porto;290000;3;2;120.0;142.0;1;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+ERA Palmela Azeitao, Almada;229000;2;1;66.0;61.0;0;;Not available;True;False;True;False;False;46.3;29
+Ramada e Caneças, Lisboa;279000;3;2;95.0;100.0;0;1.0;Not available;True;True;True;True;False;44.8;14
+Marisol, Almada;245000;2;1;66.0;75.0;0;;Not available;True;False;True;False;False;46.3;0
+Pinheiro Manso, Porto;595000;2;2;114.0;195.0;1;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;2
+Madalena, Porto;370000;3;3;111.0;145.0;1;0.0;Not available;True;False;True;True;True;47.0;5
+Tavira (Santa Maria e Santiago), Faro;360000;1;1;87.0;101.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;45.7;79
+Tavira (Santa Maria e Santiago), Faro;340000;1;1;76.0;110.0;1;0.0;Energy Performance Certificate;False;False;False;False;True;45.7;79
+Vila Real de Santo António, Faro;225000;1;1;71.0;95.0;1;;Not available;True;False;False;False;True;48.5;99
+Vila Nova de Cacela, Faro;149000;2;1;75.0;84.0;0;;Not available;True;False;False;False;True;45.7;89
+Paredes, Porto;235000;2;3;118.0;118.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;44.3;21
+Peniche, Peniche;260000;2;1;83.0;129.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;47.9;4
+Marvila, Lisboa;243000;3;2;90.0;90.0;0;;Not available;True;True;True;True;False;44.8;15
+Real, Dume e Semelhe, Braga;142000;2;1;78.0;78.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;44.4;29
+Montijo e Afonsoeiro, Setúbal;145000;2;1;56.0;67.0;0;;Not available;True;False;True;True;False;42.6;25
+Atouguia da Baleia, Leiria;190000;3;2;115.0;115.0;2;;Not available;True;False;False;False;False;46.4;3
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;183000;1;1;55.0;65.0;1;2.0;Not available;False;False;False;False;False;48.5;79
+Aguada de Baixo, Águeda;155000;2;2;95.0;95.0;0;;Not available;True;False;False;False;False;49.1;52
+Paredes, Porto;151000;2;1;87.0;34.0;2;2.0;Not available;True;False;True;True;True;44.3;21
+Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), Vila Real;178000;1;1;55.0;62.0;1;2.0;Not available;False;False;False;False;False;48.5;79
+Castêlo da Maia, Porto;199900;2;2;82.0;94.0;1;3.0;Not available;True;False;True;True;True;45.5;13
+Ponte de Lima, Ponte de Lima;267000;2;2;105.0;105.0;1;2.0;Not available;True;False;False;False;False;48.2;22
+Lordelo, Porto;155000;2;2;95.0;105.0;1;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;23
+Lordelo, Porto;155000;2;2;76.0;84.0;1;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;23
+Laranjeiro e Feijó, Setúbal;319000;4;2;101.0;120.0;0;;Not available;True;False;True;True;False;46.6;6
+Ermesinde, Valongo;245000;3;3;119.0;142.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;45.1;12
+Monte Abraão, Sintra;285000;4;2;92.0;101.0;0;;Not available;True;False;False;False;False;43.7;7
+Forte da Casa, Vila Franca de Xira;149500;1;1;72.0;75.0;0;;Not available;True;False;False;False;False;44.1;28
+Ermesinde, Porto;275000;2;3;110.0;130.0;1;8.0;Not available;True;False;True;True;True;47.0;12
+Benfica, Lisboa;360000;3;2;91.0;109.0;0;;Not available;True;True;True;True;False;44.8;9
+Baguim do Monte - Vale Ferreiros, Gondomar;190000;2;2;92.0;112.0;0;;Not available;True;False;True;False;False;47.1;12
+Nazaré, Leiria;295000;2;2;79.0;79.0;0;;Not available;True;False;False;False;True;48.6;39
+Campolide, Lisboa;249000;1;1;44.0;44.0;0;;Not available;True;True;True;True;False;44.8;10
+Solum, Coimbra;199000;2;1;55.0;60.0;0;3.0;Energy Performance Certificate;False;False;False;True;False;48.3;41
+Garajau, Santa Cruz;210000;1;1;74.0;97.0;1;5.0;Not available;True;False;False;False;False;43.7;8950
+Arcozelo, Braga;162000;2;2;105.0;105.0;0;;Not available;True;False;False;True;False;44.4;14
+Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Lisboa;298000;2;1;76.0;76.0;0;;Not available;True;True;True;True;False;44.8;1
+Pedroso e Seixezelo, Porto;267000;3;2;114.0;190.0;1;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;9
+Marco, Marco de Canaveses;135000;2;1;69.0;9.0;0;;Not available;True;False;False;False;False;45.9;44
+Parque das Nações - Expo Sul, Lisboa;850000;2;2;104.0;104.0;1;4.0;Energy Performance Certificate;False;True;True;True;False;44.8;17
+Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego, Guarda;125000;3;2;86.0;109.0;0;;Not available;True;False;False;False;False;49.6;113
+Matosinhos, Matosinhos;160000;3;2;176.0;222.0;0;0.0;Not available;True;False;True;False;False;47.5;4
+Águas Livres, Lisboa;227900;3;2;72.0;82.0;0;;Not available;True;True;True;True;False;44.8;8
+São Gonçalo de Lagos, Faro;220000;2;2;91.0;100.0;0;;Not available;True;False;False;False;True;45.7;13
+Albufeira e Olhos de Água, Faro;385000;2;2;108.0;149.0;2;3.0;Not available;True;False;False;False;True;44.4;27
+Marvila, Lisboa;270000;2;1;68.0;68.0;0;;Not available;True;True;True;True;False;44.8;15
+Barreiro / Fórum Barreiro, Barreiro;197000;3;1;104.0;110.0;0;;Not available;True;False;False;False;False;47.0;13
+Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Lisboa;387000;2;2;83.0;105.0;0;2.0;Not available;True;True;True;True;False;44.8;3
+Santa Marinha e São Pedro da Afurada, Porto;239000;3;2;108.0;135.0;1;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;4
+Fânzeres e São Pedro da Cova, Porto;167000;2;1;;;0;;Not available;True;False;True;True;True;47.0;13
+Falagueira, Amadora;180000;2;1;75.0;82.0;0;;Not available;True;False;True;True;False;44.1;8
+Moita, Setúbal;142000;2;1;80.0;85.0;0;;Not available;True;False;True;True;False;45.0;21
+Armação de Pêra, Silves;215000;0;1;45.0;60.0;0;;Not available;True;False;False;False;True;47.1;15
+Nazaré, Leiria;240000;1;1;66.0;66.0;0;;Not available;True;False;False;False;True;48.6;39
+Laranjeiras Metro, Lisboa;599000;3;2;140.0;140.0;2;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;11
+Nazaré, Leiria;220000;1;1;66.0;66.0;0;;Not available;True;False;False;False;True;48.6;39
+Fonte Nova, Lisboa;215000;1;1;27.0;29.0;0;;Not available;True;True;True;True;False;44.8;10
+Vilar de Andorinho, Porto;150000;2;1;92.0;101.0;0;;Not available;True;False;True;True;True;47.0;9
+S. Dinis, Porto;125000;0;1;35.0;35.0;0;4.0;Energy Performance Certificate;False;False;True;True;True;47.0;5
+Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau), Santarém;103000;2;1;89.0;89.0;0;;Not available;True;False;False;False;False;48.3;58
+Feijó, Almada;269000;3;2;100.0;110.0;0;;Not available;True;False;True;False;False;46.3;6
+Portimão, Faro;275000;4;2;95.0;124.0;0;0.0;Not available;True;False;False;False;True;45.7;1
+Mafamude e Vilar do Paraíso, Porto;175000;0;1;40.0;60.0;1;3.0;Not available;True;False;True;True;True;47.0;6
+Santa Maria Maior, Viana do Castelo;225000;3;3;119.0;119.0;1;0.0;Energy Performance Certificate;False;False;False;False;True;48.8;1
+Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail, Aveiro;125000;3;2;108.0;108.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;48.5;23
+Oliveira do Douro, Porto;155000;2;1;66.0;85.0;0;2.0;Energy Performance Certificate;False;False;True;True;True;47.0;7
+Arca d´ Água, Porto;170000;1;1;37.0;57.0;0;;Not available;True;False;True;True;True;47.0;5
+Monte Gordo, Vila Real de Santo António;165000;1;1;36.0;40.0;1;;Not available;True;False;False;False;False;48.5;96
+Praça de Touros, Santarém;175000;3;2;98.0;98.0;0;;Not available;True;False;False;False;False;48.3;60
+Quarteira, Loulé;275000;2;1;73.0;90.0;1;1.0;Not available;True;False;False;False;False;46.9;38
+Portimão, Faro;299000;3;3;79.0;89.0;0;;Not available;True;False;False;False;True;45.7;1
+Apúlia e Fão, Braga;310000;2;2;90.0;100.0;2;1.0;Energy Performance Certificate;False;False;False;True;False;44.4;3
+Monte Abraão, Sintra;229500;2;1;64.0;70.0;0;;Not available;True;False;False;False;False;43.7;7
+Loures, Loures;190000;2;1;84.0;85.0;0;;Not available;True;False;False;False;False;44.6;18
+Carcavelos, Cascais;420000;2;2;78.0;88.0;0;;Not available;True;False;False;False;True;46.9;3
+Mina de Água, Lisboa;132500;2;1;86.0;86.0;0;;Not available;True;True;True;True;False;44.8;10
+Eiras, Coimbra;175000;3;1;86.0;111.0;1;1.0;Not available;True;False;False;True;False;48.3;40
+Olivais Sul, Lisboa;245000;3;1;;;0;;Not available;True;True;True;True;False;44.8;16
+Mina de Água, Lisboa;75500;1;1;44.0;44.0;0;;Not available;True;True;True;True;False;44.8;10
+Ericeira Periferia, Mafra;320000;3;1;74.0;82.0;0;1.0;Not available;True;False;False;False;True;43.8;14
+Repeses, Viseu;245000;2;2;107.0;163.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;72
+Repeses e São Salvador, Viseu;252500;2;2;126.0;179.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;260000;2;2;136.0;202.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;257500;2;2;123.0;182.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;262500;2;2;121.0;180.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;357500;3;2;165.0;220.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;360000;3;2;170.0;226.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;287500;3;2;141.0;207.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Brufe, Braga;255000;3;3;124.0;124.0;2;2.0;Not available;False;False;False;True;False;44.4;22
+Laranjeiro, Almada;260000;5;2;140.0;160.0;0;;Not available;True;False;True;False;False;46.3;6
+Alhos Vedros, Setúbal;219000;4;2;96.0;120.0;0;;Not available;True;False;True;True;False;46.6;19
+Repeses e São Salvador, Viseu;285000;3;2;143.0;210.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Gala, Figueira da Foz;146000;2;1;93.0;93.0;1;1.0;Not available;True;False;False;False;True;50.9;4
+Mataduços, Aveiro;187500;3;2;162.0;132.0;2;1.0;Not available;True;False;False;False;True;45.5;38
+Monte Abraão, Sintra;265000;2;1;91.0;112.0;0;;Not available;True;False;False;False;False;43.7;7
+São Marcos, Sintra;184000;1;1;65.0;65.0;0;;Not available;True;False;False;False;False;43.7;6
+Chafé, Viana do Castelo;225000;2;2;77.0;77.0;1;5.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;167000;1;1;43.0;43.0;1;5.0;Not available;True;False;False;False;True;48.8;6
+Paços de Ferreira, Porto;235000;2;2;110.0;163.0;2;1.0;Not available;True;False;True;True;True;47.0;28
+Chafé, Viana do Castelo;170000;1;1;47.0;47.0;1;5.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;170000;1;1;44.0;44.0;1;5.0;Not available;True;False;False;False;True;48.8;6
+Marco, Porto;238000;3;3;117.0;117.0;1;3.0;Not available;True;False;True;True;True;47.0;60
+Chafé, Viana do Castelo;170000;1;1;46.0;46.0;1;5.0;Not available;True;False;False;False;True;48.8;6
+Cova da Piedade, Almada;260000;4;2;115.0;122.0;0;;Not available;True;False;True;False;False;46.3;7
+Chafé, Viana do Castelo;215000;2;2;77.0;77.0;2;4.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;160000;1;1;43.0;43.0;1;4.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;165000;1;1;47.0;47.0;1;4.0;Not available;True;False;False;False;True;48.8;6
+Venteira, Lisboa;190000;2;1;65.0;77.0;0;;Not available;True;True;True;True;False;44.8;8
+Marco, Porto;220000;3;3;112.0;112.0;1;1.0;Not available;True;False;True;True;True;47.0;60
+Agualva - Cacém, Sintra;149900;1;1;60.0;61.0;1;;Not available;True;False;False;False;False;43.7;7
+Chafé, Viana do Castelo;165000;1;1;44.0;44.0;1;4.0;Not available;True;False;False;False;True;48.8;6
+Lamego (Almacave e Sé), Viseu;180000;3;3;118.0;139.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;51.5;71
+Chafé, Viana do Castelo;170000;1;1;60.0;60.0;1;4.0;Not available;True;False;False;False;True;48.8;6
+Marco, Porto;198000;2;3;86.0;86.0;1;5.0;Not available;True;False;True;True;True;47.0;60
+Chafé, Viana do Castelo;215000;2;2;81.0;81.0;1;4.0;Not available;True;False;False;False;True;48.8;6
+Marco, Porto;188000;2;3;76.0;76.0;1;3.0;Not available;True;False;True;True;True;47.0;60
+Chafé, Viana do Castelo;200000;2;2;77.0;77.0;1;3.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;155000;1;1;43.0;43.0;1;3.0;Not available;True;False;False;False;True;48.8;6
+Bragaparque, Braga;260000;3;2;130.0;130.0;1;7.0;Energy Performance Certificate;False;False;False;True;False;44.4;31
+Chafé, Viana do Castelo;160000;1;1;47.0;47.0;1;3.0;Not available;True;False;False;False;True;48.8;6
+Nogueira, Fraião e Lamaçães, Braga;265000;3;2;115.0;141.0;1;1.0;Energy Performance Certificate;False;False;False;True;False;44.4;31
+Chafé, Viana do Castelo;160000;1;1;44.0;44.0;1;3.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;160000;1;1;46.0;46.0;1;3.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;165000;1;1;60.0;60.0;1;3.0;Not available;True;False;False;False;True;48.8;6
+Porto, Porto;525000;3;3;140.0;158.0;1;3.0;Energy Performance Certificate;False;False;True;True;True;47.0;3
+Chafé, Viana do Castelo;200000;2;2;81.0;81.0;1;3.0;Not available;True;False;False;False;True;48.8;6
+Planalto, Leiria;184000;2;1;;;0;;Not available;True;False;False;False;False;46.4;46
+Chafé, Viana do Castelo;195000;2;2;77.0;77.0;1;2.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;150000;1;1;43.0;43.0;1;2.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;155000;1;1;47.0;47.0;1;2.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;155000;1;1;44.0;44.0;1;2.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;165000;1;1;60.0;60.0;1;2.0;Not available;True;False;False;False;True;48.8;6
+Chafé, Viana do Castelo;195000;2;2;81.0;81.0;1;2.0;Not available;True;False;False;False;True;48.8;6
+Marco, Porto;140000;1;1;54.0;54.0;0;;Not available;True;False;True;True;True;47.0;60
+Marco, Porto;130000;1;1;54.0;54.0;0;;Not available;True;False;True;True;True;47.0;60
+Alto do Seixalinho / Largo da Santa, Barreiro;235000;3;2;139.0;146.0;0;;Not available;True;False;False;False;False;47.0;15
+São Domingos de Benfica, Lisboa;350000;3;2;100.0;100.0;0;;Not available;True;True;True;True;False;44.8;9
+Olivais, Coimbra;260000;3;2;93.0;119.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;48.3;40
+Alta de Lisboa, Lisboa;420000;1;1;;;0;;Not available;True;True;True;True;False;44.8;11
+Marco, Porto;93000;0;1;31.0;31.0;0;;Not available;True;False;True;True;True;47.0;60
+Marco, Porto;99000;0;1;33.0;33.0;0;;Not available;True;False;True;True;True;47.0;60
+Marco, Porto;106000;0;1;43.0;43.0;0;;Not available;True;False;True;True;True;47.0;60
+Marco, Porto;95000;0;1;36.0;36.0;0;;Not available;True;False;True;True;True;47.0;60
+Boavista, Porto;280000;1;1;;;0;;Not available;True;False;True;True;True;47.0;4
+Alhos Vedros, Setúbal;119000;3;2;84.0;92.0;0;;Not available;True;False;True;True;False;46.6;19
+Rio Tinto - Cidade Jovem, Gondomar;240000;3;2;108.0;122.0;1;0.0;Energy Performance Certificate;False;False;True;False;False;47.1;11
+Póvoa de Santa Iria e Forte da Casa, Lisboa;318000;3;2;125.0;125.0;1;3.0;Energy Performance Certificate;False;True;True;True;False;44.8;26
+Ílhavo (São Salvador), Aveiro;165000;3;2;75.0;90.0;0;;Not available;True;False;False;False;True;45.5;45
+Misericórdia, Lisboa;450000;4;2;102.0;120.0;0;;Not available;True;True;True;True;False;44.8;9
+Espinho, Aveiro;205000;1;1;43.0;43.0;0;;Not available;True;False;False;False;True;51.1;0
+Leiria, Pousos, Barreira e Cortes, Leiria;197500;3;2;82.0;91.0;1;1.0;Not available;True;False;False;False;False;46.4;47
+Abraveses, Viseu;165000;2;2;90.0;112.0;2;2.0;Not available;True;False;False;False;False;46.9;70
+Bairro Augusto de Castro, Oeiras;215000;0;1;38.0;40.0;0;;Not available;True;False;False;False;False;46.5;1
+ERA Palmela Azeitao, Moita;150000;2;1;81.0;95.0;0;;Not available;True;False;False;False;False;45.0;29
+Quinta do Jacinto, Lisboa;200000;2;1;45.0;50.0;0;0.0;Not available;True;True;True;True;False;44.8;8
+Praia da Luz, Lagos;220000;1;1;47.0;;0;;Not available;True;False;False;False;True;48.7;17
+Costa Cabral, Porto;270000;2;1;79.0;84.0;0;3.0;Not available;True;False;True;True;True;47.0;7
+Vilar de Andorinho, Porto;130000;2;1;63.0;72.0;0;;Not available;True;False;True;True;True;47.0;9
+Costa Cabral, Porto;240000;2;1;65.0;66.0;0;2.0;Not available;True;False;True;True;True;47.0;7
+Repeses e São Salvador, Viseu;295000;3;2;140.0;206.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+S. Miguel, Ovar;99000;1;1;102.0;127.0;0;;Not available;True;False;False;False;False;47.1;16
+Costa Cabral, Porto;170000;0;1;32.0;48.0;0;;Not available;True;False;True;True;True;47.0;7
+Repeses e São Salvador, Viseu;292500;3;2;136.0;197.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Gafanha da Nazaré, Ílhavo;175000;2;1;90.0;;0;;Not available;True;False;False;False;True;48.6;41
+Santa Marinha e São Pedro da Afurada, Porto;137500;0;1;32.0;32.0;0;;Not available;True;False;True;True;True;47.0;4
+Costa Cabral, Porto;240000;2;1;65.0;66.0;0;1.0;Not available;True;False;True;True;True;47.0;7
+Penha de França, Lisboa;179000;2;1;;;0;;Not available;True;True;True;True;False;44.8;12
+Nazaré, Leiria;320000;2;2;78.0;78.0;1;1.0;Energy Performance Certificate;False;False;False;False;True;48.6;39
+Repeses e São Salvador, Viseu;300000;3;2;135.0;196.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;440000;3;2;216.0;290.0;1;5.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Repeses e São Salvador, Viseu;540000;4;3;256.0;345.0;1;5.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Estômbar e Parchal, Faro;215000;3;2;110.0;110.0;3;0.0;Not available;True;False;False;False;True;45.7;5
+Santa Maria Maior, Vila Real;189000;3;2;135.0;140.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;48.5;111
+Encosta do Sol, Lisboa;300000;3;2;79.0;92.0;0;;Not available;True;True;True;True;False;44.8;10
+Alto do Seixalinho / Quinta do Convento, Barreiro;195000;2;2;64.0;69.0;0;;Not available;True;False;False;False;False;47.0;15
+Santo André / Ribeira das Naus, Barreiro;143000;1;1;38.0;40.0;0;;Not available;True;False;False;False;False;47.0;14
+Guarda, Guarda;128000;4;2;109.0;118.0;0;;Not available;True;False;False;False;False;49.6;160
+Girassol, Abrantes;160000;3;3;120.0;125.0;0;;Not available;True;False;False;False;False;53.4;97
+São Félix da Marinha, Porto;320000;2;2;95.0;95.0;2;0.0;Not available;True;False;True;True;True;47.0;2
+Encosta da Barata, Abrantes;89000;2;1;84.0;84.0;0;;Not available;True;False;False;False;False;53.4;97
+Pombal, Leiria;198000;2;2;87.0;140.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;46.4;35
+Cabo de Vialonga, Vila Franca de Xira;265000;3;2;97.0;102.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;44.1;28
+São Félix da Marinha, Porto;415000;3;2;114.0;114.0;2;0.0;Not available;True;False;True;True;True;47.0;2
+Aldeia de Paio Pires, Seixal;250000;2;1;73.0;81.0;2;2.0;Energy Performance Certificate;False;False;False;False;False;44.9;14
+Anta e Guetim, Aveiro;345000;3;3;117.0;117.0;1;0.0;Energy Performance Certificate;False;False;False;False;True;45.5;1
+Marvila, Lisboa;220000;2;1;72.0;72.0;0;;Not available;True;True;True;True;False;44.8;15
+Bairro de Santa Cruz, Lisboa;390000;2;1;100.0;106.0;0;;Not available;True;True;True;True;False;44.8;9
+Bairro do Liceu, Aveiro;217500;2;1;73.0;91.0;0;;Not available;True;False;False;False;True;45.5;41
+Vila Real de Santo António, Vila Real de Santo António;188500;3;2;68.0;89.0;0;;Not available;True;False;False;False;False;48.5;99
+Lousã e Vilarinho, Coimbra;160000;2;2;135.0;175.0;1;4.0;Energy Performance Certificate;False;False;False;True;False;48.3;55
+Centro de Gaia, Vila Nova de Gaia;250000;2;2;100.0;105.0;0;;Not available;True;False;True;True;False;46.8;6
+Vila Real de Santo António, Vila Real de Santo António;225000;3;2;95.0;105.0;0;;Not available;True;False;False;False;False;48.5;99
+Vera Cruz, Aveiro;195000;2;1;97.0;97.0;0;;Not available;True;False;False;False;True;45.5;39
+São Brás de Alportel, Faro;240000;2;1;77.0;99.0;0;;Not available;True;False;False;False;True;45.7;57
+Eiras, Coimbra;220000;3;3;113.0;227.0;1;3.0;Not available;True;False;False;True;False;48.3;40
+Quinta da Portela / Polo II, Coimbra;293000;2;2;79.0;93.0;2;3.0;Energy Performance Certificate;False;False;False;True;False;48.3;39
+Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro), Braga;265000;2;2;114.0;150.0;1;1.0;Energy Performance Certificate;False;False;False;True;False;46.3;11
+Praia da Rocha, Portimão;310000;3;2;100.0;112.0;1;3.0;Not available;False;False;False;False;True;45.5;0
+Monte Gordo, Faro;349500;2;1;73.0;87.0;1;2.0;Energy Performance Certificate;False;False;False;False;True;45.7;96
+Santa Maria Maior, Vila Real;179000;2;3;125.0;134.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;48.5;111
+Minde, Santarém;119500;3;2;88.0;98.0;0;;Not available;True;False;False;False;False;48.3;62
+Gouveia, Guarda;75000;2;1;61.0;83.0;0;;Not available;True;False;False;False;False;58.1;105
+Leiria, Pousos, Barreira e Cortes, Leiria;159500;1;1;60.0;727.0;1;0.0;Not available;True;False;False;False;False;46.4;47
+Ribeirão, Braga;169000;2;1;115.0;109.0;1;1.0;Energy Performance Certificate;False;False;False;True;False;44.4;24
+Arroios, Lisboa;645000;5;2;106.0;124.0;0;;Not available;True;True;True;True;False;44.8;12
+Infantado, Loures;349000;2;2;126.0;126.0;1;2.0;Energy Performance Certificate;False;False;False;False;False;44.6;19
+Nossa Senhora da Piedade, Santarém;129500;3;2;105.0;117.0;1;1.0;Not available;True;False;False;False;False;48.3;60
+Campo 24 Agosto, Porto;170000;1;1;35.0;41.0;0;;Not available;True;False;True;True;True;47.0;6
+Vilar de Andorinho, Porto;210000;2;2;114.0;114.0;2;1.0;Energy Performance Certificate;False;False;True;True;True;47.0;9
+Bonfim, Porto;325000;2;2;78.0;90.0;0;;Not available;True;False;True;True;True;47.0;6
+Bonfim, Porto;185000;0;1;39.0;51.0;0;;Not available;True;False;True;True;True;47.0;6
+Bonfim, Porto;335000;2;2;85.0;97.0;0;;Not available;True;False;True;True;True;47.0;6
+Alfena, Porto;205000;2;2;84.0;205.0;1;0.0;Energy Performance Certificate;False;False;True;True;True;47.0;15
+Mafamude e Vilar do Paraíso, Porto;245000;3;2;106.0;130.0;1;5.0;Energy Performance Certificate;False;False;True;True;True;47.0;6
+OVAR Centro, Ovar;160000;2;2;87.0;99.0;1;1.0;Not available;True;False;False;False;False;47.1;16
+Mangualde, Mesquitela e Cunha Alta, Viseu;105000;2;2;84.0;104.0;1;2.0;Not available;True;False;False;False;False;50.9;91
+Póvoa de Varzim, Beiriz e Argivai, Porto;189000;3;2;79.0;79.0;0;;Not available;True;False;True;True;True;47.0;14
+Costa da Caparica, Setúbal;287000;2;1;85.0;86.0;0;;Not available;True;False;True;True;True;46.6;0
+À Av. Gomes Pereira, Lisboa;240000;1;1;38.0;43.0;0;;Not available;True;True;True;True;False;44.8;9
+Paços de Brandão, Aveiro;205000;3;2;96.0;96.0;0;;Not available;True;False;False;False;True;45.5;5
+Queluz e Belas, Lisboa;154000;1;1;50.0;39.0;0;;Not available;True;True;True;True;False;44.8;7
+Paços de Brandão, Aveiro;200000;3;2;104.0;104.0;0;;Not available;True;False;False;False;True;45.5;5
+Casal Gouveia, Sintra;185000;2;1;64.0;70.0;0;;Not available;True;False;False;False;False;58.1;2
+Paços de Brandão, Aveiro;165000;2;2;57.0;57.0;0;;Not available;True;False;False;False;True;45.5;5
+Águas Santas, Porto;279000;2;2;;;0;;Not available;True;False;True;True;True;47.0;10
+Paços de Brandão, Aveiro;140000;1;1;40.0;40.0;0;;Not available;True;False;False;False;True;45.5;5
+Pinheiro Manso, Porto;298000;2;2;94.0;94.0;1;0.0;Energy Performance Certificate;False;False;True;True;True;47.0;2
+Paços de Brandão, Aveiro;125000;1;1;47.0;47.0;0;;Not available;True;False;False;False;True;45.5;5
+Queluz e Belas, Lisboa;197500;2;1;71.0;78.0;0;;Not available;True;True;True;True;False;44.8;7
+Feijó, Almada;245000;3;2;89.0;93.0;0;;Not available;True;False;True;False;False;46.3;6
+Ajuda, Funchal;485000;3;2;133.0;103.0;0;;Not available;True;False;False;True;False;48.0;913
+Paços de Brandão, Aveiro;130000;1;1;44.0;44.0;0;;Not available;True;False;False;False;True;45.5;5
+Almada, Cova da Piedade, Pragal e Cacilhas, Setúbal;420000;3;2;93.0;108.0;2;1.0;Energy Performance Certificate;False;False;True;True;False;46.3;7
+Alcabideche, Lisboa;269000;2;1;70.0;89.0;0;;Not available;True;True;True;True;False;44.8;4
+Rio Tinto, Porto;165000;3;1;84.0;103.0;1;1.0;Not available;True;False;True;True;True;47.0;9
+Águas Santas, Porto;270000;2;2;;;0;;Not available;True;False;True;True;True;47.0;10
+Olivais Sul, Lisboa;499000;3;2;130.0;130.0;0;;Not available;True;True;True;True;False;44.8;16
+Oliveira do Hospital e São Paio de Gramaços, Coimbra;147500;4;3;212.0;145.0;1;3.0;Not available;True;False;False;True;False;48.3;90
+Campinas, Sintra;295000;3;2;110.0;121.0;3;;Not available;True;False;False;False;False;43.7;7
+Repeses e São Salvador, Viseu;220000;1;1;99.0;149.0;1;1.0;Energy Performance Certificate;False;False;False;False;False;46.9;71
+Avenidas Novas, Lisboa;529000;3;1;84.0;100.0;0;;Not available;True;True;True;True;False;44.8;13
+Freixieiro, Matosinhos;395000;3;2;132.0;162.0;2;2.0;Energy Performance Certificate;False;False;True;False;False;47.5;8
+Lousã e Vilarinho, Coimbra;247000;4;3;193.0;250.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;48.3;55
+Lousã e Vilarinho, Coimbra;236500;4;4;192.0;297.0;1;2.0;Energy Performance Certificate;False;False;False;True;False;48.3;55
+Lousã e Vilarinho, Coimbra;178500;3;2;126.0;153.0;1;0.0;Energy Performance Certificate;False;False;False;True;False;48.3;55
+Verdemilho, Aveiro;305000;3;2;137.0;151.0;1;2.0;Not available;True;False;False;False;True;45.5;43
+Marvila, Lisboa;520000;4;2;100.0;115.0;2;1.0;Not available;True;True;True;True;False;44.8;15
+Massamá 6ª Fase, Sintra;250000;2;2;96.0;103.0;0;;Not available;True;False;False;False;False;43.7;6
+Seixal, Arrentela e Aldeia de Paio Pires, Setúbal;138500;2;1;60.0;77.0;0;;Not available;True;False;True;True;False;44.9;11
+Centro / Alfredo da Silva, Barreiro;248500;3;3;99.0;99.0;0;;Not available;True;False;False;False;False;47.0;13
+Cavalinha, Olhão;250000;2;2;57.0;;0;;Not available;True;False;False;False;True;46.2;62
+Fermentões, Braga;125000;1;1;48.0;64.0;1;0.0;Not available;True;False;False;True;False;44.4;38
+Francelos, Vila Nova de Gaia;325000;2;2;112.0;166.0;1;2.0;Energy Performance Certificate;False;False;True;True;False;46.8;8
+Monte Gordo, Faro;190000;1;1;41.0;51.0;0;;Not available;True;False;False;False;True;45.7;96
+São Gonçalo de Lagos, Faro;387000;3;2;78.0;78.0;0;;Not available;True;False;False;False;True;45.7;13
+Malveira, Mafra;315000;3;3;131.0;148.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;43.8;20
+Marvila, Lisboa;260000;1;1;66.0;66.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;15
+Santa Marinha e São Pedro da Afurada, Porto;470000;2;2;86.0;131.0;1;3.0;Not available;True;False;True;True;True;47.0;4
+Alcochete, Setúbal;630000;4;4;203.0;296.0;2;2.0;Not available;True;False;True;True;False;44.8;26
+Alto do Seixalinho, Santo André e Verderena, Setúbal;150000;2;1;70.0;76.0;0;;Not available;True;False;True;True;False;44.9;14
+São Cosme Zona 2, Gondomar;256000;2;2;89.0;109.0;1;6.0;Energy Performance Certificate;False;False;True;False;False;47.1;12
+Cacém e São Marcos, Lisboa;190000;3;1;65.0;75.0;0;;Not available;True;True;True;True;False;44.8;8
+Costa de Caparica, Almada;200000;1;1;52.0;55.0;0;;Not available;True;False;True;False;False;46.3;0
+Beato, Lisboa;269000;3;1;60.0;;0;;Not available;True;True;True;True;False;44.8;14
+Almancil, Loulé;260000;2;1;97.0;114.0;1;3.0;Energy Performance Certificate;False;False;False;False;False;46.9;45
+Baixa da Banheira e Vale da Amoreira, Setúbal;119500;2;1;55.0;88.0;0;;Not available;True;False;True;True;False;46.6;16
+Alto do Forno, Figueira da Foz;140000;2;1;78.0;78.0;0;5.0;Energy Performance Certificate;False;False;False;False;True;50.9;1
+Alvalade, Lisboa;429000;2;1;71.0;91.0;1;2.0;Not available;False;True;True;True;False;44.8;14
+Golden Club, Tavira;140000;0;1;26.0;33.0;0;;Not available;True;False;False;False;True;51.2;82
+Leça do Balio, Matosinhos;238000;2;2;102.0;100.0;1;2.0;Energy Performance Certificate;False;False;True;False;False;47.5;7
+Águas Santas, Porto;361000;3;3;136.0;155.0;2;4.0;Not available;True;False;True;True;True;47.0;10
+Atibá, Cascais;380000;3;2;126.0;133.0;2;1.0;Not available;True;False;False;False;True;46.9;6
+Amora, Setúbal;219900;3;1;104.0;104.0;0;2.0;Not available;True;False;True;True;False;46.6;9
+Casal De Matos, Leiria;249000;3;2;107.0;130.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;46.4;49
+São João da Madeira, Aveiro;265000;2;2;123.0;126.0;2;0.0;Not available;True;False;False;False;True;47.0;17
+Seia, São Romão e Lapa dos Dinheiros, Guarda;138000;3;2;123.0;144.0;1;3.0;Not available;True;False;False;False;False;49.6;102
+Avanca, Estarreja;158000;2;1;142.0;159.0;1;1.0;Not available;True;False;False;False;False;48.0;23
+Linda-a-Velha, Oeiras;296000;2;1;65.0;65.0;0;;Not available;True;False;False;False;False;46.5;4
+Algés, Oeiras;265000;1;2;52.0;57.0;0;;Not available;True;False;False;False;False;46.5;5
+Virtudes, Porto;990000;2;3;144.0;;0;;Not available;True;False;True;True;True;47.0;4
+Viseu, Viseu;265000;3;3;87.0;58.0;2;3.0;Not available;True;False;False;False;False;46.9;72
+Odivelas, Lisboa;420000;3;3;101.0;121.0;1;6.0;Energy Performance Certificate;False;True;True;True;False;44.8;14
+Linda-a-velha, Oeiras;240000;2;1;74.0;78.0;0;;Not available;True;False;False;False;False;46.5;4
+Olivais, Lisboa;229000;2;1;50.0;50.0;0;;Not available;True;True;True;True;False;44.8;16
+Damaia de Baixo, Amadora;159900;1;1;42.0;48.0;0;;Not available;True;False;True;True;False;44.1;9
+Valpaços e Sanfins, Vila Real;133000;3;2;130.0;153.0;1;0.0;Not available;True;False;False;False;False;59.8;123
+Carvalhido, Porto;145000;1;1;43.0;43.0;0;;Not available;True;False;True;True;True;47.0;4
+Madragoa, Lisboa, Lisboa;359000;2;1;60.0;60.0;0;;Not available;True;True;True;True;False;44.8;11
+Esmoriz I - Pinhal da Aberta, Ovar;230000;2;2;89.0;89.0;1;0.0;Energy Performance Certificate;False;False;False;False;False;47.1;5
+Garajau, Santa Cruz;255000;2;2;91.0;129.0;2;1.0;Not available;True;False;False;False;False;43.7;8950
+Alto dos Moinhos, Lisboa;349900;2;2;64.0;67.0;0;;Not available;True;True;True;True;False;44.8;11
+Alto dos Moinhos, Lisboa;399900;2;2;65.0;78.0;0;;Not available;True;True;True;True;False;44.8;11
+Olhão, Faro;185000;2;1;73.0;92.0;0;;Not available;True;False;False;False;True;45.7;62
+Qtª Areeiro, Santa Maria da Feira;145000;2;1;86.0;86.0;1;4.0;Energy Performance Certificate;False;False;False;False;False;47.1;11
+Bairro dos Actores, Lisboa;349000;2;1;63.0;63.0;0;;Not available;True;True;True;True;False;44.8;11
+Queluz, Sintra;199000;3;2;67.0;78.0;0;;Not available;True;False;True;False;False;43.7;7
+Gafanha da Nazaré, Ílhavo;99000;1;1;46.0;;0;;Not available;True;False;False;False;True;48.6;41
+Vila Nova de Famalicão e Calendário, Braga;229000;3;2;117.0;120.0;0;;Not available;True;False;False;True;False;44.4;23
+Lumiar, Lisboa;395000;3;2;100.0;116.0;1;2.0;Energy Performance Certificate;False;True;True;True;False;44.8;13
+Monte da Caparica, Almada;119000;1;1;56.0;56.0;1;2.0;Energy Performance Certificate;False;False;True;False;False;46.3;4
+Olhão Centro, Olhão;240000;3;2;90.0;105.0;0;;Not available;True;False;False;False;True;46.2;63
+Alferrarede, Abrantes;120000;2;1;95.0;95.0;0;;Not available;True;False;False;False;False;53.4;97
+Laranjeiro e Feijó, Setúbal;235000;2;2;77.0;94.0;0;;Not available;True;False;True;True;False;46.6;6
+Bom João, Faro;175000;2;1;72.0;72.0;0;;Not available;True;False;False;False;True;45.7;55
